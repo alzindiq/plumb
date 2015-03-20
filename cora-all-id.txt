@@ -1,0 +1,2066 @@
+[1, ahlskog1994a] M. Ahlskog J. Paloheimo H. Stubb P. Dyreklev M. Fahlman - Inganas and M.R.
+[2, ahlskog1994a] M. Ahlskog J. Paloheimo H. Stubb P. Dyreklev M. Fahlman O. Inganas and M.R. Andersson - 
+[3, ahlskog1994a] M. Ahlskog J. Paloheimo H. Stubb P. Dyreklev M. Fahlman O. Inganas and M.R. Andersson - 
+[4, ahlskog1994a] M. Ahlskog J. Paloheimo H. Stubb P. Dyreklev M. Fahlman O. Inganas and M.R. Andersson - 
+[5, ahlskog1994a] M. Ahlskog J. Paloheimo H. Stubb P. Dyreklev M. Fahlman O. Inganas and M.R. Andersson - 
+[6, ahlskog1994a] M. Ahlskog J. Paloheimo H. Stubb P. Dyreklev M. Fahlman O. Inganas and M.R. Andersson - 
+[7, ahlskog1994a] M. Ahlskog J. Paloheimo H. Stubb P. Dyreklev M. Fahlman O. Inganas and M.R. Andersson - 
+[8, ahlskog1994a] M. Ahlskog J. Paloheimo H. Stubb P. Dyreklev M. Fahlman O. Inganas and M.R. Andersson - 
+[9, asfahl1992a] C. Ray Asfahl. - Robots and Manufacturing Automation.
+[10, benford1993a] Steve Benford and Lennart E. Fahlen. - A spatial model of interaction in large virtual environments.
+[11, benford1994a] Benford and Fahln - Viewpoints, Actionpoints and Spatial Frames for Collaborative User Interfaces,
+[12, benford1995a] Benford Bowers Fahln Greenhalgh and Snowdon - User Embodiment in Collaborative Virtual Environments,
+[13, benford1995a] Benford Bowers Fahlen Greenhalgh Snowdon - User Embodiment in Collaborative Virtual Environments.
+[14, benford1995a] Benford Bowers Fahlen Greenhalgh Snowdon - User Embodiment in Collaborative Virtual Environments.
+[15, benford1995b] Steve Benford John Bowers Lennart Fahlen Chris Greenhalg John Mariani and Tom Rodden. - Networked Virtual realitty and Cooperative Work.
+[16, brown1992a] Brown D. F. Moura H. and Watt - Actress: an action semantics directed compiler generator,
+[17, brown1992a] Brown D. F. Moura H. and Watt - Actress: an action semantics directed compiler generator,
+[18, brown1992a] D. F. Brown H. Moura and D. A. Watt. Actress: - an action semantics directed compiler generator.
+[19, buth1992a] B. Buth K.-H. Buth M. Franzle B. v. Karger Y. Lakhneche H. Langmaack and M. Muller-Olm. - Provably correct compiler development and implementation.
+[20, buth1992a] B. Buth et. al. - Provably Correct Compiler Implementation,
+[21, buth1992a] B. Buth et. al. - Provably Correct Compiler Implementation,
+[22, buth1992a] B. Buth et. al. - Provably Correct Compiler Implementation,
+[23, buth1992a] Bettina Buth Karl-Heinz Buth Martin Franzle Burghard von Karger Yassine Lakhneche Hans Langmaack and Markus Muller-Olm. - Provably correct compiler development and implementation.
+[24, carlson1993a] Carlson C.; L.E.Fahln. Conklin - Integrated CSCW Tools Within a Shared 3D Virtual Environment. Hypertext: An Introduction and Survey.
+[25, cramer1985a] Cramer - A representation for the adaptive generation of simple sequential programs.
+[26, daelemans1995a] Daelemans Van den Bosch and Weijters - IG-tree: A variant of IBL. submitted. Available from request to antal@cs.rulimburg.nl Fahlman, (1990). The Cascade-correlation Learning Architecture.
+[27, deb1989a]  - An investigation of niche and species formation in genetic function op-timization.
+[28, deb1989a]  - An investigation of niche and species formation in genetic function optimization.
+[29, deb1989a]  - An investigation of niche and species formation in genetic function optimization.
+[30, dempster1977a] Dempster Laird and Rubin - Maximum likelihood from incomplete data via the EM algorithm.
+[31, dempster1977a] Dempster Laird and Rubin - Maximum likelihood from incomplete data via the EM algorithm.
+[32, dill1997a] M. Dill and M. - Fahle Limited Translation Invari-ance of Human Visual Pattern Recognition.
+[33, dill1997a] M. Dill and M. - Fahle Limited Translation Invari-ance of Human Visual Pattern Recognition.
+[34, dill1997b] M. Dill and M. - Fahle The Role of Visual Field Position in Pattern-Discrimination Learning.
+[35, dill1997b] M. Dill and M. - Fahle The Role of Visual Field Position in Pattern-Discrimination Learning.
+[36, dutta1988a] Dutta S. and Shekhar - Bond rating: A non-conservative application of neural networks.
+[37, fahle1981a] M. Fahle and T. Poggio. - Visual hyperacuity: spatiotemporal interpolation in human vision.
+[38, fahle1991a] Fahle - (1991) Parallel perception of vernier offsets, curvature, and chevrons in humans.
+[39, fahle1992a] Fahle M. W. and Edelman - Learning in hyperacuity: influence of stimulus range and of feedback.
+[40, fahle1993a] M Fahle and S Edelman. - Long-term learning in Vernier acuity: effects of stimulus orientation, range and of feedback.
+[41, fahle1993a] Fahle M. and Edelman - Long-term learning in vernier acuity: Effects of stimulus orientation, range and of feedback.
+[42, fahle1993a] Fahle M. and Edelman - Long-term learning in vernier acuity: Effects of stimulus orientation, range and of feedback.
+[43, fahle1995a] Fahle Edelman and Poggio - Fast perceptual learning in hyperacuity.
+[44, fahle1995a] Fahle Edelman and Poggio - Fast perceptual learning in hyperacuity.
+[45, fahle1995a] Fahle Edelman and Poggio - Fast perceptual learning in hyperacuity.
+[46, fahle1995a] Fahle Edelman and Poggio - Fast perceptual learning in hyperacuity.
+[47, fahle1997a] Fahle - Specificity of learning curvature, orientation, and vernier discriminations.
+[48, fahle1997a] Fahle - Specificity of learning curvature, orientation, and vernier discriminations.
+[49, fahlen1993a] Lennart E. Fahlen Charles Grant Brown Olov Stahl and Christer Carlsson. - A space based model for user interaction in shared synthetic environments.
+[50, fahlen1993a] Lennart E. Fahlen Charles Grant Brown Olov Stahl and Christer Carlsson. - A space based model for user interaction in shared synthetic environments.
+[51, fahlen1993a] Lennart E. Fahlen Charles Grant Brown Olov Stahl and Christer Carlsson. - A space based model for user interaction in shared synthetic environments.
+[52, fahlen1993a] Lennart E. Fahlen Charles Grant Brown Olov Stahl and Christer Carlsson. - A space based model for user interaction in shared synthetic environments.
+[53, fahlen1993a] Lennart E. Fahlen Charles Grant Brown Olov Stahl and Christer Carlsson. - A space based model for user interaction in shared synthetic environments.
+[54, fahlman1974a] S. Fahlman - "A planning system for robot construction tasks,"
+[55, fahlman1974a] S. Fahlman - "A planning system for robot construction tasks,"
+[56, fahlman1974a] Scott Elliott Fahlman. - A planning system for robot construction tasks.
+[57, fahlman1974a] Scott Elliott Fahlman. - A planning system for robot construction tasks.
+[58, fahlman1974a] Fahlman - A Planning System for Robot Construction Tasks.
+[59, fahlman1974a] Fahlman - A Planning System for Robot Construction Tasks.
+[60, fahlman1974a] S. E. Fahlman. - A planning system for robot construction tasks.
+[61, fahlman1974a] S. E. Fahlman. - A planning system for robot construction tasks.
+[62, fahlman1974a] S.E. Fahlman. - A planning system for robot construction tasks.
+[63, fahlman1974a] S Fahlman. - A planning system for robot construction tasks.
+[64, fahlman1974a] S. F. Fahlman. - A planning system for robot construction tasks.
+[65, fahlman1974a] S. E. Fahlman. - A planning system for robot construction tasks.
+[66, fahlman1974a] Scott Elliott Fahlman. - A planning system for robot construction tasks.
+[67, fahlman1979a] Fahlman - NETL: A system for representing and using real world knowledge,
+[68, fahlman1979a] S. E. Fahlman. - NETL: A System for Representing and Using Real World Knowledge.
+[69, fahlman1979a] Fahlman - NETL: A system for representing and using real world knowledge.
+[70, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real World Knowledge.
+[71, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real World Knowledge.
+[72, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real-World Knowledge.
+[73, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real-World Knowledge.
+[74, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real-World Knowledge.
+[75, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real World Knowledge,
+[76, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real World Knowledge,
+[77, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real World Knowledge,
+[78, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real World Knowledge, Cam-bridge:
+[79, fahlman1979a] Fahlman - NETL: A system for representing and using real world knowledge,
+[80, fahlman1979a] Fahlman - NETL: A System for Representing and Using Real-World Knowledge.
+[81, fahlman1979a] Scott E. Fahlman. - NETL: A System for Representing and Using Real-World Knowledge.
+[82, fahlman1979a] S. E. Fahlman. - NETL : a System for Representing and Using Real-World Knowledge.
+[83, fahlman1979a] S.E. Fahlman. - NETL: A system for representing real-world knowledge,
+[84, fahlman1979a] Scott E. Fahlman. - A System for Representing and Using Real-World Knowledge.
+[85, fahlman1979a] Scott E. Fahlman. - A System for Representing and Using Real-World Knowledge.
+[86, fahlman1979a] Scott E. Fahlman. - NETL: A System for Representing and Using Real-World Knowledge.
+[87, fahlman1979a] S. Fahlman - NETL: A System for Representing and Using Real-World Knowledge.
+[88, fahlman1979a] Scott E. Fahlman. - NETL: A System for Representing Real World Knowledge.
+[89, fahlman1979a] Scott E. Fahlman. - NETL: A System for Representing and Using Real-World Knowledge.
+[90, fahlman1979a] S. Fahlman. - NETL: A System for Representing and Using Real-World Knowledge.
+[91, fahlman1979a] Scott E Fahlman. - NETL, A System For Representing And Using Real-World Knowledge.
+[92, fahlman1979a] Fahlman - "NETL: A System for Representing and Using Real World Knowledge",
+[93, fahlman1979a] S. Fahlman. - NETL: A System for Representing and Using Real-World Knowledge.
+[94, fahlman1979a] S. E. Fahlman. - NETL: A System for Representing and Using Real-World Knowledge.
+[95, fahlman1979a] S.E. Fahlman. - NETL: A System for Representing and Using Real World Knowledge,
+[96, fahlman1979a] S.E. Fahlman. - NETL: A system for representing and using real-world knowledge.
+[97, fahlman1979a] S. Fahlman - NETL: A System for Representing and Using Real World Knowledge,
+[98, fahlman1979a] S. Fahlman. - NETL: A System for Representing and Using Real-World Knowledge.
+[99, fahlman1979a] Scott E. Fahlman. - Netl: A System For Representing And Using Real-World Knowledge.
+[100, fahlman1980a] Scott E. Fahlman. - Design sketch for a million-element netl machine.
+[101, fahlman1981a] Fahlman - "Representing Implicit Knowledge."
+[102, fahlman1981b] Fahlman S Touretzky D and van Roggen W - Cancellation in a Parallel Semantic Network,
+[103, fahlman1985a] Scott E. Fahlman. - Extended abstract:
+[104, fahlman1987a] Fahlman S. and Hinton - Connectionist architectures for artificial intelligence.
+[105, fahlman1987a] Scott E Fahlman and Geoffrey E Hinton. - Connectionist Architectures for Artificial Intelligence.
+[106, fahlman1987a] Fahlman S. and Hinton - Connectionist Architectures for Artificial Intelligence.
+[107, fahlman1988a] S. E. Fahlman - "Faster-Learning Variations on Back-Propagation: An Empirical Study,"
+[108, fahlman1988a] Fahlman - Faster-learning variations on backpropagation: An empirical study.
+[109, fahlman1988a] Fahlman - Faster-learning variations on back-propagation.
+[110, fahlman1988a] Fahlman - Faster-learning variations on back-propagation: an empirical study.
+[111, fahlman1988a] Fahlman - Faster learning variations on backpropagation: An empirical study.
+[112, fahlman1988a] Fahlman - `Fast-learning variations on back-propagation: An empirical study',
+[113, fahlman1988a] Fahlman - Fast-Learning Variations on BackPropagation: An Empirical Study.
+[114, fahlman1988a] Fahlman - Fast-learning variations on back-propagation: an empirical study.
+[115, fahlman1988a] Fahlman - Fast-learning variations on back-propagation: an empirical study.
+[116, fahlman1988a] Fahlman - Fast-learning variations on back-propagation: an empirical study.
+[117, fahlman1988a] Fahlman - Fast-learning variations on back-propagation: an empirical study.
+[118, fahlman1988a] S. Fahlman. - Faster learning variations on back-propagation: An empirical study.
+[119, fahlman1988a] S.E. Fahlman. - Fast-learning variations on back-propagation: An empirical study.
+[120, fahlman1988a] S. E. Fahlman. - Faster-learning variations on back-propagation: An empirical study.
+[121, fahlman1988a] Scott E. Fahlman. - Faster learning variations on back-propagation: An empirical study.
+[122, fahlman1988a] Fahlman - E . Faster-learning variations of backpropagation : An empirical study.
+[123, fahlman1988a] Fahlman - E . Faster-learning variations of backpropagation : An empirical study.
+[124, fahlman1988a] Fahlman - E . Faster-learning variations of backpropagation : An empirical study.
+[125, fahlman1988a] Fahlman - Fast-learning variations on back-propagation: An empirical study.
+[126, fahlman1988a] Fahlman - (1988) Faster-Learning Variations on Back-Propagation: An Empiri cal Study.
+[127, fahlman1988a] S E Fahlman. - Faster-learning variations on back-propagation: An empirical study.
+[128, fahlman1988a] S.E. Fahlman. - Faster-learning Variations on Backpropagation : An Empirical Study. In T.J.
+[129, fahlman1988a] Fahlman - Faster-learning variations of backpropagation : An empirical study.
+[130, fahlman1988a] S. Fahlmann - Faster-Learning Variations on BackPropagation: An Empirical Study,
+[131, fahlman1988a] S. Fahlmann - Faster-Learning Variations on BackPropagation: An Empirical Study,
+[132, fahlman1988a] S.E. Fahlman - "Faster-learning Variations on Backpropagation : An Empirical Study,"
+[133, fahlman1988a] Fahlman - "Faster-Learning Variations on Back-Propagation: An Empirical Study". In:
+[134, fahlman1988a] S.E. Fahlman. - Faster-learning variations on back-propagation: An empirical study.
+[135, fahlman1988a] Scott E. Fahlman - "Faster-Learning Variations on Back-Propagation: An Empirical Study",
+[136, fahlman1988a] S. Fahlman. - Faster-learning variations on backpropagation: an empirical study.
+[137, fahlman1988a] S. Fahlman. - Faster-learning variations on backpropagation: an empirical study.
+[138, fahlman1988a] S. Fahlman. - Faster-learning variations on back-propagation: An empirical study.
+[139, fahlman1988a] S. E. Fahlman - Faster-learning variations on back-propagation: An empirical study,
+[140, fahlman1988a] S. E. Fahlman - Faster-learning variations on backpropagation: An empirical study,
+[141, fahlman1988a] S. E. Fahlman. - Fast-learning variations on back-propagation: An empirical study.
+[142, fahlman1988a] S. E. - Fahlman (1988): Faster-Learning Variations on Back-Propagation: An Empirical Study,
+[143, fahlman1988a] S. E. - Fahlman (1988): Faster-Learning Variations on BackPropagation: An Empirical Study,
+[144, fahlman1988a] Fahlman - Fast Learning Variations on Backpropagation: An Empirical Study,
+[145, fahlman1988a] Scott Fahlman - "Faster-Learning Variations on Back Propagation: An Empirical Study,"
+[146, fahlman1988b] S.E. Fahlman - An empirical study of learning speed in backpropagation networks,
+[147, fahlman1988b] Scott E. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[148, fahlman1988b] Fahlman S. E. - An empirical study of learning speed in backpropagation networks,
+[149, fahlman1988b] Fahlman - An empirical study of learning speed in backpropagation networks.
+[150, fahlman1988b] Fahlman - An empirical study of learning speed in back-propagation networks,
+[151, fahlman1988b] Fahlman - An empirical study of learning speed in back-propagation networks.
+[152, fahlman1988b] Fahlman - An empirical study of learning speed in backpropagation networks.
+[153, fahlman1988b] Fahlman - An empirical study of learning speed in backpropagation networks.
+[154, fahlman1988b] Fahlman - An empirical study of learning speed in backpropagation networks.
+[155, fahlman1988b] Fahlman - An empirical study of learning speed in backpropagation networks.
+[156, fahlman1988b] Fahlman - An Empirical Study of Learning Speed in Backpropagation Networks.
+[157, fahlman1988b] Fahlman - (1988) An Empirical Study of Learning Speed in BackPropagation Networks (CMU-CS-88-162),
+[158, fahlman1988b] Fahlman - An empirical study of learning speed in back-propagation networks,
+[159, fahlman1988b] Fahlman Scott. - An empirical study of learning speed in back-propagation networks.
+[160, fahlman1988b] Fahlman Scott. - An empirical study of learning speed in back-propagation networks.
+[161, fahlman1988b] Fahlman Scott. - An empirical study of learning speed in back-propagation networks.
+[162, fahlman1988b] Fahlman Scott. - An empirical study of learning speed in back-propagation networks.
+[163, fahlman1988b] S. E. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[164, fahlman1988b] Fahlman - An Empirical Study of Learning Speed in Back-Propagation Networks.
+[165, fahlman1988b] Fahlman - An Empirical Study of Learning Speed in Back-Propagation Networks.
+[166, fahlman1988b] Scott E. Fahlman. - An empirical strudy of learning speed in back-propagation networks.
+[167, fahlman1988b] S. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[168, fahlman1988b] S. E. Fahlman - "An Empirical Study of Learning Speed in Backpropagation Networks,"
+[169, fahlman1988b] S. E. Fahlman - "An empirical study of learning speed in back-propagation networks,"
+[170, fahlman1988b] S.E. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[171, fahlman1988b] S. E. Fahlman - "An Empirical Study of Learning Speed in Backpropagation Networks,"
+[172, fahlman1988b] Scott E. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[173, fahlman1988b] S. E. Fahlman - An Empirical Study of Learning Speed in Back-Propagation Networks,
+[174, fahlman1988b] S. E. Fahlman - An Empirical Study of Learning Speed in Back-Propagation Networks,
+[175, fahlman1988b] Scott E. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[176, fahlman1988b] Scott E. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[177, fahlman1988b] Fahlman - An Empirical Study of Learning Speed in Back-Propagation Networks,
+[178, fahlman1988b] S. E. Fahlman. - An empirical study of learning speed in back propagation networks.
+[179, fahlman1988b] S.E. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[180, fahlman1988b] Fahlman - An empirical study of learning speed in backpropagation networks,
+[181, fahlman1988b] S. Fahlman - "An Empirical Study of Learning Speed in Back-Propagation Networks,"
+[182, fahlman1988b] S. E. Fahlman - "An Empirical Study of Learning Speed in Back-propagation Networks",
+[183, fahlman1988b] Fahlman - "An empirical study of learning speed in back-propagation networks",
+[184, fahlman1988b] S. E. Fahlman. - An empirical study of learning speed in backpropagation networks.
+[185, fahlman1988b] Scott E. Fahlman. - An empirical study of learning speed in back-propagation networks.
+[186, fahlman1988b] S. E. Fahlman - of Learning Speed in Back-Propagation Networks,
+[187, fahlman1988b] Fahlman Scott E. - "An Empirical Study of Learning Speed in Back-Propagation Networks."
+[188, fahlman1988b] Fahlman Scott E. - "An Empirical Study of Learnin g Speed in BackPropagation Networks",Technical Report CMU-CS-88-162,
+[189, fahlman1988b] Scott Fahlman - "An Empirical Study of Learning Speed in BackPropagation Networks,"
+[190, fahlman1988b] Scott Fahlman - "An Empirical Study of Learning Speed in BackPropagation Networks,"
+[191, fahlman1988b] Scott Fahlman - "An Empirical Study of Learning Speed in BackPropagation Networks,"
+[192, fahlman1990a] Fahlman S.E. and Lebiere - The Cascade-Correlation Learning Architecture,
+[193, fahlman1990a] S.E. Fahlman and C. Lebiere: - The Cascade-Correlation Learning Architecture,
+[194, fahlman1990a] S.E. Fahlman and C. Lebiere: - The Cascade-Correlation Learning Architecture,
+[195, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-Correlation learning architec ture,
+[196, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-Correlation learning architecture,
+[197, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[198, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-Correlation learning architecture.
+[199, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-Correlation learning architecture.
+[200, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-correlation Learning Architecture.
+[201, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-correlation Learning Architecture.
+[202, fahlman1990a] Fahlman and Lebiere - Cascade-correlation learning architecture
+[203, fahlman1990a] Fahlman and Lebiere - Cascade-correlation learning architecture
+[204, fahlman1990a] Fahlman and Lebiere - Cascade-correlation learning architecture
+[205, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[206, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[207, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[208, fahlman1990a] Fahlman S. E. Lebiere C. - The cascade-correlation learning architecture,
+[209, fahlman1990a] Fahlman S. and Lebiere - The Cascade-Correlation Learning Architecture.
+[210, fahlman1990a] S. E. Fahlman and C. Lebiere - The Cascade-Correlation learning architecture,
+[211, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[212, fahlman1990a] S. E. Fahlman and C. Lebiere - "The Cascade-Correlation Learning Architecture",
+[213, fahlman1990a] Fahlman S. and Lebiere - The Cascade-Correlation Learning Architecture.
+[214, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation learning architecture.
+[215, fahlman1990a] Fahlman and Lebiere - The Cascade-Correlation learning architecture.
+[216, fahlman1990a] Fahlman and Lebiere - The Cascade-Correlation learning architecture.
+[217, fahlman1990a] Fahlman and Lebiere - The Cascade-Correlation learning architecture.
+[218, fahlman1990a] Fahlman and Lebiere - The Cascade-Correlation learning architecture.
+[219, fahlman1990a] Fahlman and Lebiere - The Cascade-Correlation learning architecture.
+[220, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[221, fahlman1990a] S. E. Fahlman and C. Lebiere - The Cascade-Correlation Learning Architecture,
+[222, fahlman1990a] S. E. Fahlman and C. Lebiere - The Cascade-Correlation Learning Architecture,
+[223, fahlman1990a] Fahlman Lebiere - The Cascade-Correlation Learning Architecture,
+[224, fahlman1990a] S. Fahlman and C. Lebiere - The casade-correlation learning architecture,
+[225, fahlman1990a] S. E. Fahlman and C. Lebiere - "The Cascade Correlation Learning Architecture",
+[226, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-Correlation Learning Architecture.
+[227, fahlman1990a] Fahlman S. and Lebiere - "The Cascade-Correlation Learning Architecture".
+[228, fahlman1990a] Fahlman S. and Lebiere - The Cascade-Correlation Learning Architecture.
+[229, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The cascade-correlation learning architecture.
+[230, fahlman1990a] S. E. Fahlman and Christian Lebiere. - The cascade-correlation learning architecture.
+[231, fahlman1990a] S. Fahlman and C. Lebiere - "The Cascade-Correlation Learning Architecture,"
+[232, fahlman1990a] Fahlman S. and Lebiere - The Cascade-Correlation Learning Architecture.
+[233, fahlman1990a] Fahlman S. and Lebiere - The Cascade-Correlation Learning Architecture.
+[234, fahlman1990a] Fahlman S. and Lebiere - The Cascade-Correlation Learning Architecture.
+[235, fahlman1990a] S. Fahlman and C. Lebiere - "The cascade-correlation learning architecture,"
+[236, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[237, fahlman1990a] Fahlman S. and Lebiere - The Cascade-Correlation Learning Architecture.
+[238, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[239, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[240, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[241, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation learning architecture.
+[242, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-correlation Learning Architecture.
+[243, fahlman1990a] Fahlman Scott E. and Lebiere - Christi an, "The Cascade--Correlation Learning Architecture",
+[244, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-Correlation Learning Architecture,
+[245, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade-Correlation Learning Architecture,
+[246, fahlman1990a] S.E. Fahlman C. Lebiere - "The cascade-correlation learning algorithm",
+[247, fahlman1990a] S.E. Fahlman and C. Lebiere - The cascade-correlation learning architecture,
+[248, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation learning architecture.
+[249, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[250, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[251, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[252, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[253, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[254, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[255, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[256, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[257, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[258, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[259, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[260, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[261, fahlman1990a] Fahlman - Lebiere (1990), The Cascade-Correlation Learning Architecture,
+[262, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[263, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[264, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture,
+[265, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture,
+[266, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture,
+[267, fahlman1990a] Fahlman S. E. and Lebiere - The cascade correlation architecture.
+[268, fahlman1990a] Fahlman S. E. and Lebiere - The cascade correlation architecture.
+[269, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[270, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[271, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade Correlation Learning Architecture.
+[272, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade Correlation Learning Architecture.
+[273, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation architecture.
+[274, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation architecture.
+[275, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning algorithm.
+[276, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[277, fahlman1990a] Fahlman and Lebiere - The Cascade Correlaion Learning Architecture.
+[278, fahlman1990a] Fahlman and Lebiere - The Cascade-Correlation Architecture.
+[279, fahlman1990a] Fahlman and Lebiere - The Cascade-Correlation Architecture.
+[280, fahlman1990a] Fahlman and Lebiere - The cascade correlation architecture.
+[281, fahlman1990a] Fahlman and Lebiere - The cascade correlation architecture.
+[282, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[283, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[284, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[285, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[286, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[287, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[288, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[289, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[290, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[291, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[292, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[293, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[294, fahlman1990a] Fahlman S. and Lebiere C. - The Cascade Correlation Learning Architecture.
+[295, fahlman1990a] Fahlman S. and Lebiere C. - The Cascade Correlation Learning Architecture.
+[296, fahlman1990a] Fahlman S. and Lebiere C. - The Cascade Correlation Learning Architecture.
+[297, fahlman1990a] Fahlman S. and C. Lebiere. - The Cascade-Correlation learning architecture.
+[298, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation architecture.
+[299, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation architecture.
+[300, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[301, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture. In Touret-zky,
+[302, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[303, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[304, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[305, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[306, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[307, fahlman1990a] Fahlman and Lebiere - The cascade-correlation learning architecture.
+[308, fahlman1990a] Fahlman S.E. and Lebiere - The cascade-correlation architecture.
+[309, fahlman1990a] Fahlman S.E. and Lebiere - The Cascade-Correlation Learning Architecture.
+[310, fahlman1990a] Fahlman S.E. and Lebiere - "The Cascade Correlation Learning Architecture,"
+[311, fahlman1990a] Fahlmann S. E. and Lebiere - The cascade-correlation learning architecture.
+[312, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[313, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[314, fahlman1990a] Fahlman S. and Lebiere C. - The Cascade Correlation Learning Architecture.
+[315, fahlman1990a] S. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[316, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[317, fahlman1990a] S. Fahlman and C. Lebiere. - The Cascade-Correlation learning architecture.
+[318, fahlman1990a] S. Fahlman and C. Lebiere. - The Cascade-Correlation learning architecture.
+[319, fahlman1990a] S. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[320, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learn-ing architecture. In D.S.
+[321, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture. In D.S.
+[322, fahlman1990a] S. E. Fahlman and C. Lebiere - The Cascade-Correlation Learning Architecture,
+[323, fahlman1990a] S. E. Fahlman AND C. Lebiere - The cascade-correlation learning architec ture,
+[324, fahlman1990a] S. E. Fahlmann C. Lebiere: - "The Cascade-Correlation Learning Architecture",
+[325, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation architecture.
+[326, fahlman1990a] S. Fahlman and C. Lebiere - "The cascade-correlation learning architecture,"
+[327, fahlman1990a] S. Fahlman and C. Lebiere - "The cascade-correlation learning architecture,"
+[328, fahlman1990a] S. Fahlman and C. Lebiere - "The cascade-correlation learning architecture,"
+[329, fahlman1990a] S. Fahlman and C. Lebiere. - The cascade correlation learning algorithm.
+[330, fahlman1990a] Fahlman Lebiere - "The cascade-correlation architecture,"
+[331, fahlman1990a] S. E. Fahlman and C. Lebiere - The cascade-correlation learning algorithm,
+[332, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[333, fahlman1990a] S. E. Fahlman and C. Lebiere. - The Cascade-Correlation learning architecture.
+[334, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[335, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[336, fahlman1990a] Fahlmann Scott C. Lebiere. - The Cascade-Correlation Learning Architechture.
+[337, fahlman1990a] S. Fahlman and C. Libiere - "The Cascade Correlation Architecture",
+[338, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[339, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[340, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[341, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[342, fahlman1990a] Fahlman S.E. and Lebiere C. - The Cascade-Correlation Learning Architecture.
+[343, fahlman1990a] Fahlman S.E. and Lebiere - The cascade-correlation learning architecture,
+[344, fahlman1990a] S.E. Fahlman and C. Lebiere - "The cascade-correlation learning architecture,"
+[345, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[346, fahlman1990a] Fahlmann Scott C. Lebiere. - The Cascade-Correlation Learning Architechture.
+[347, fahlman1990a] Fahlmann Scott C. Lebiere. - The Cascade-Correlation Learning Architecture.
+[348, fahlman1990a] S. E. Fahlman and C. Lebiere - The Cascade-Correlation Learning Architecture,
+[349, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation learning architec-ture.
+[350, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation learning architec-ture.
+[351, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation learning architecture.
+[352, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[353, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[354, fahlman1990a] S. Fahlman and C. Lebiere - "The cascade correlation learning algorithm,"
+[355, fahlman1990a] S. Fahlman and C. Lebiere - "The cascade correlation learning algorithm,"
+[356, fahlman1990a] Fahlman S.E. and Lebiere - The cascade-correlation learning architecture,
+[357, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[358, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[359, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation learning architecture.
+[360, fahlman1990a] Fahlman and Lebiere - The Cascade-Correlation Learning Architecture.
+[361, fahlman1990a] Fahlman S. and Lebiere - The cascade-correlation learning architecture.
+[362, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation architecture.
+[363, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade-correlation architecture.
+[364, fahlman1990a] S. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[365, fahlman1990a] S. Fahlmann C. Lebiere - The Cascade-Correlation Learning Architecture,
+[366, fahlman1990a] S. Fahlmann C. Lebiere - The Cascade-Correlation Learning Architecture,
+[367, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation learning architecture.
+[368, fahlman1990a] S. Fahlman and C. Lebiere. - The cascade correlation learning algorithm.
+[369, fahlman1990a] S. Fahlman and C. Lebiere. - The cascade correlation learning algorithm.
+[370, fahlman1990a] Fahlman Scott E. - "The Cascade-Correlation Learning Architecture",
+[371, fahlman1990a] S. Fahlman - "The cascade-correlation learning architecture,"
+[372, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[373, fahlman1990a] S.E. Fahlman and Lebiere C. - ; The Cascaded-Correlation Learning Architecture.
+[374, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation Learning Architecture.
+[375, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The Cascade-Correlation Learning Architecture.
+[376, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[377, fahlman1990a] S.E. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[378, fahlman1990a] Scott E. Fahlman and Christian Lebiere. - The cascade-correlation learning architecture.
+[379, fahlman1990a] S. E. Fahlman and C. Lebiere. - The cascade correlation learning algorithm.
+[380, fahlman1990a] S. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[381, fahlman1990a] S. Fahlman and C. Lebiere. - The cascade-correlation learning architecture.
+[382, fahlman1990a] S.E. Fahlman and C. Lebiere - "The cascade-correlation learning architecture",
+[383, fahlman1990a] S.E. Fahlman and C. Lebiere - "The cascade-correlation learning architecture",
+[384, fahlman1990a] S.E. Fahlman and C. Lebiere - The cascade-correlation learning architecture,
+[385, fahlman1990a] S.E. Fahlman and C. Lebiere - The cascade-correlation learning architecture,
+[386, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[387, fahlman1990a] Fahlman S. E. and Lebiere - The cascade-correlation learning architecture.
+[388, fahlman1990a] Fahlman and Lebiere - "The Cascade-Correlation Learning Architecture,"
+[389, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade Correlation Learning Architecture.
+[390, fahlman1990a] Fahlman S. E. and Lebiere - The Cascade Correlation Learning Architecture.
+[391, fahlman1990a] Fahlman S.E. and Lebiere C. - The Cascade-Correlation Learning Architecture.
+[392, fahlman1990a] S. E. Fahlman and Lebiere C. - The Cascade-Correlation Learning Architecture,
+[393, fahlman1990a] S. E. Fahlman and C. Lebiere - The Cascade-Correlation Learning Architecture,
+[394, fahlman1990a] S. E. Fahlman and C. Lebiere - The Cascade-Correlation Learning Architecture,
+[395, fahlman1990a] S. E. Fahlman and C. Lebiere. - The Cascade-Correlation Learning Architecture.
+[396, fahlman1991a] Fahlman - The recurrent cascade-correlation architecture.
+[397, fahlman1991a] Fahlman - The recurrent cascade-correlation architecture.
+[398, fahlman1991a] Fahlman - The recurrent cascade-correlation architecture.
+[399, fahlman1991a] Fahlman - The recurrent cascade-correlation architecture.
+[400, fahlman1991a] Fahlman - The recurrent cascade-correlation architecture.
+[401, fahlman1991a] Fahlman - The recurrent cascade-correlation learning algorithm.
+[402, fahlman1991a] Fahlman - The recurrent cascade-correlation learning algorithm.
+[403, fahlman1991a] Fahlman - The recurrent cascade-correlation learning algorithm.
+[404, fahlman1991a] Fahlmann S.E.(1990). - The recurrent cascade-correlation architecture.
+[405, fahlman1991a] Scott E. Fahlman. - The recurrent cascade-correlation architecture.
+[406, fahlman1991a] S. Fahlman. - The recurrent cascade-correlation architecture.
+[407, fahlman1991a] Scott E. Fahlman. - The recurrent cascade-correlation architecture.
+[408, fahlman1991a] S. Fahlman - "The recurrent cascade-correlation architecture,"
+[409, fahlman1991a] Scott E. Fahlman. - The recurrent cascade-correlation architecture.
+[410, fahlman1991a] Scott E. Fahlman. - The recurrent cascade-correlation architecture.
+[411, fahlman1991a] S. Fahlman. - The recurrent cascade-correlation architecture.
+[412, fahlman1991a] S. Fahlman. - The recurrent cascade-correlation architecture.
+[413, fahlman1991a] Fahlman Scott E. - "The Recurrent Cascade-Correlation Architecture",
+[414, fahlman1991a] S. Fahlman - "The recurrent cascade-correlation architecture,"
+[415, fahlman1991b] Scott E. Fahlman and David B. McDonald. - Design considerations for CMU common lisp.
+[416, fahlman1991b] Scott E. Fahlman and David B. McDonald. - Design considerations for CMU common lisp.
+[417, fahlman1991c] Fahlman - The Recurrent Cascade-Correlation Architecture.
+[418, fahlman1991c] Scott E. Fahlman - "The Recurrent Cascade-Correlation Architecture,"
+[419, fahlman1991c] Scott E. Fahlman - "The Recurrent Cascade-Correlation Architecture,"
+[420, fahlman1991c] Scott E. Fahlman - "The Recurrent Cascade-Correlation Architecture,"
+[421, fahlman1993a] Scott E. Fahlman. - Some thoughts on NETL 15 years later.
+[422, fahlman1993b] Fahlman - CMU Benchmark Collection for Neural Net Learning Algorithms,
+[423, fahlman1996a] S. E. Fahlman L. D. Baker and J. A. Boyan - The Cascade 2 Learning Architecture,
+[424, fahlman1996a] S. E. Fahlman L. D. Baker and J. A. Boyan - The Cascade 2 Learning Architecture,
+[425, fahlman1996a] S. E. Fahlman L. D. Baker and J. A. Boyan - The Cascade 2 Learning Architecture,
+[426, fahln1993a] Fahln L.E.; C.G.Brown; O.Stahl; C.Carlsson. - A Space Based Model for User Interaction in Shared Synthetic Environments.
+[427, fahln1993a] Fahln L.E.; C.G.Brown; O.Stahl; C.Carlsson. - A Space Based Model for User Interaction in Shared Synthetic Environments.
+[428, forchheimer1983a] R. Forchheimer and O. Fahlander - Low bit-rate coding through animation,
+[429, frankel1994a] J.Frankel L.Alvarez R.Horowitz and P.Li. - "Robust Platoon Manuevers for AVHS,"
+[430, hendren1992a] L. J. Hendren G. R. Gao E. R. Altman and C. Muk-erji. - A register allocation framework based on hierarchical cyclic interval graphs.
+[431, herzog1995a] Herzog M.H. and Fahle - A recurrent model for learning a hyperacuity task.
+[432, hoehfeld1992a] Hoehfeld M. and Fahlman - Learning with limited numerical precision using the cascade-correlation algorithm.
+[433, hoehfeld1992a] M. H. Hoehfeld and S. Fahlman. - Learning with Limited Numerical Precision Using the Cascade-Correlation Algorithm.
+[434, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[435, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[436, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[437, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[438, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[439, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[440, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[441, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[442, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[443, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[444, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[445, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[446, knoop1992a] Knoop J. and Steffen - The interprocedural coincidence theorem,
+[447, knoop1992a] J. Knoop and B. Steffen. - The interprocedural coincidence theorem.
+[448, knoop1992a] J. Knoop and B. Steffen. - The interprocedural coincidence theorem.
+[449, knoop1992a] J. Knoop and B. Steffen. - The interprocedural coincidence theorem.
+[450, knopp1992a] Jurgen Knopp. - Improving the performance of parallel lisp by compile time analysis.
+[451, kriegel1993a] Kriegel Heep S. Fahldiek A. Mysliwitz N. - "Query Processing of Geometric Objects with Free Form Boundaries in Spatial Databases".
+[452, kriegel1993a] Kriegel Heep S. Fahldiek A. Mysliwitz N. - "Query Processing of Geometric Objects with Free Form Boundaries in Spatial Databases".
+[453, langendoen1992a] Koen Langendoen and Pieter Hartel. FCG: - a code generator for lazy functional languages.
+[454, langendoen1992a] K.G. Langendoen and P.H. Hartel - a code generator for lazy functional languages, in Compiler construction (CC),
+[455, mcdonald1987a] David B. McDonald Scott E. Fahlman and Skef Wholey. - Internal design of cmu common lisp on the IBM RT PC.
+[456, pfahler1997a] P. Pfahler and U. Kastens. - Language design and implementation by selection.
+[457, pfahler1997a] P. Pfahler and U. Kastens. - Language design and implementation by selection.
+[458, poggio1992a] Poggio Fahle and Edelman - Fast perceptual learning in visual hyperacuity.
+[459, poggio1992a] Poggio Fahle and Edelman - Fast perceptual learning in visual hyperacuity.
+[460, poggio1992a] Poggio Fahle and Edelman - Fast perceptual learning in visual hyperacuity.
+[461, poggio1992a] Poggio Fahle and Edelman - Fast perceptual learning in visual hyperacuity.
+[462, poggio1992a] Poggio Fahle and Edelman - Fast perceptual learning in visual hyperacuity.
+[463, poggio1992a] Poggio Fahle and Edelman - Fast perceptual learning in visual hyperacuity.
+[464, poggio1992a] Poggio Fahle and Edelman - Fast perceptual learning in visual hyperacuity.
+[465, poggio1992a] T. Poggio M. Fahle and S. Edelman. - Fast Per ceptual Learning in Visual Hyperacuity.
+[466, poggio1992a] Poggio T Fahle M and Edelman S. - Fast perceptual learning in visual hyperacuity.
+[467, poggio1992b] Poggio Edelman and Fahle - Learning of visual modules from examples: a framework for understanding adaptive visual performance.
+[468, poggio1992b] T. Poggio S. Edelman and M. Fahle. - Learning of visual modules from examples: A framework for understanding adaptive visual performance. CVGIP: Image Understanding, Special Issue on Purposive, Qualitative, Active Vision,
+[469, pope1992a] S. T. Pope and L. E. - Fahl en, Building sound into a virtual environment,
+[470, shapiro1980a] S. C. Shapiro. - Review of Fahlman, Scott NETL: A system for representing and using real-world knowledge.
+[471, steele1984a] Guy L. Steele Jr. Scott E. Fahlman Richard P. Gabriel David A. Moon and Daniel L. Weinreb. - Common Lisp: The Language.
+[472, steele1984a] Guy L. Steele Jr. Scott E. Fahlman Richard P. Gabriel David A. Moon and Daniel L. Weinreb. - Common Lisp: The Language.
+[473, steele1984a] Guy L. Steele Jr. Scott E. Fahlman Richard P. Gabriel David A. Moon and Daniel L. Weinreb. - Common Lisp: The Language.
+[474, steele1990a] Steele Guy L. Fahlman Scott E. Gabriel Richard P. Moon David A. Weinreb Daniel L. Bobrow Daniel G. DeMichiel Linda G. Keene Sonya E. Kiczales Gregor Perdue Crispin Pitman Kent M. Waters Richard C. and White - Common Lisp: The Language (Second Edition).
+[475, steele1990a] Common Lisp: The Language (Second Edition). By Guy L. Steele Jr. Scott E. Fahlman Richard P. Gabriel David A. Moon Daniel L. Weinreb Daniel G. Bobrow Linda G. DeMichiel Sonya E. Keene Gregor Kiczales Crispin Perdue Kent M. Pitman Richard C. Waters and Jon L White. - 
+[476, steele1990a] Common Lisp: The Language (Second Edition). By Guy L. Steele Jr. Scott E. Fahlman Richard P. Gabriel David A. Moon Daniel L. Weinreb Daniel G. Bobrow Linda G. DeMichiel Sonya E. Keene Gregor Kiczales Crispin Perdue Kent M. Pitman Richard C. Waters and Jon L White. - 
+[477, steele1990a] Common Lisp: The Language (Second Edition). By Guy L. Steele Jr. Scott E. Fahlman Richard P. Gabriel David A. Moon Daniel L. Weinreb Daniel G. Bobrow Linda G. DeMichiel Sonya E. Keene Gregor Kiczales Crispin Perdue Kent M. Pitman Richard C. Waters and Jon L White. - 
+[478, steele1990a] Common Lisp: The Language (Second Edition). By Guy L. Steele Jr. Scott E. Fahlman Richard P. Gabriel David A. Moon Daniel L. Weinreb Daniel G. Bobrow Linda G. DeMichiel Sonya E. Keene Gregor Kiczales Crispin Perdue Kent M. Pitman Richard C. Waters and Jon L White. - 
+[479, sudholt1992a] S udholt M. and Steigner - On interprocedural data flow analysis for object oriented languages.
+[480, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S Dzroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michal-ski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The monk's problems a performance comparison of different learning algorihms.
+[481, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski andS.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Weldel W. Wenzel J. Wnek and J. Zhang. - The monk's problems: A performance comparison of different learning algorithms.
+[482, thrun1991a] Thrun Bala Bloedorn Bratko Cestnik Cheng De Jong Dzerowski Fahlman Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Vafaie Van de Velde Wenzel Wnek and Zhang - The MONKS Problems: A Performance Comparison of Different Learning Algorithms,
+[483, thrun1991a] Thrun Bala Bloedorn Bratko Cestnik Cheng De Jong Dzerowski Fahlman Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Vafaie Van de Velde Wenzel Wnek and Zhang - The MONKS Problems: A Performance Comparison of Different Learning Algorithms,
+[484, thrun1991a] Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michal-ski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The MONK's problems A performance comparison of different learning algorithms.
+[485, thrun1991a] Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michal-ski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The MONK's problems A performance comparison of different learning algorithms.
+[486, thrun1991a] Thrun Bala Bloedorn Bratko Cestnik Cheng De Jong Dzeroski Fahlman Fisher Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Reich Vafaie Van de Welde Wenzel Wnek and Zhang - The MONK's Problem: A Performance Comparison of Different Learning Algorithms.
+[487, thrun1991a] Thrun S.; Bala J.; Bloedorn E.; Bratko I.; Cestnik B.; Cheng J.; De Jong K.; Dzeroski S.; Fahlman S.; Fisher D.; Hamann R.; Kaufman K.; Keller S.; Kononenko I.; Kreuziger J.; Michalski R.; Mitchell T.; Pachowicz P.; Reich Y.; Vafaie H.; de Weldel W. V.; Wenzel W.; Wnek J.; and Zhang - The monk's problems: A performance comparison of different learning algorithms.
+[488, thrun1991a] Thrun Bala Bloedorn Bratko Cestnik Cheng De Jong Dzeroski Fahlman Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Vafaie Van de Velde Wenzel Wnek J. and Zhang - "The MONK's problems: A Performance Comparison of Different Learning Algorithms,"
+[489, thrun1991a] Thrun Bala Bloedorn Bratko Cestnink Cheng DeJong Dzeroski Fahlman Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Vafaie Van de Velde Wenzel Wnek J. and Zhang - "The MONK's Problems: A Performance Comparison of Different Learning Algorithms,"
+[490, thrun1991a] S. B. Thrun J. Bala E. Bloendorn I. Bratko B. Cestnik J. Cheng K. De Jong S. D^zeroski S. E. Fahlman D. Fisher R. Hamann K. Kauf-man S. Keller I. Kononenko J. Kreuziger R. S. Michalski T. Mitchell P. Pachovicz Y. Re-ich H. Vafaie W. Van de Welde W. Wentzel J. Wnek and J. Zhang. - The monk's problems a performance comparison of different learning algorithms.
+[491, thrun1991a] S. B. Thrun J. Bala E. Bloendorn I. Bratko B. Cestnik J. Cheng K. De Jong S. D^zeroski S. E. Fahlman D. Fisher R. Hamann K. Kauf-man S. Keller I. Kononenko J. Kreuziger R. S. Michalski T. Mitchell P. Pachovicz Y. Re-ich H. Vafaie W. Van de Welde W. Wentzel J. Wnek and J. Zhang. - The monk's problems a performance comparison of different learning algorithms.
+[492, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S Dzroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Re-ich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The monk's problems a performance comparison of different learning algorihms.
+[493, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang - The MONK's problems a performance comparison of different learning algorithms.
+[494, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Weldel W. Wenzel J. Wnek and J. Zhang. - The monk's problems: A performance comparison of different learning algorithms.
+[495, thrun1991a] Sebastian B. Thrun Jerzy Bala Eric Bloedorn Bojan Cestnik John Cheng Kenneth De Jong Saso Dzeroski Douglas Fisher Scott E. Fahlman Rainer Hamann Kenneth Kaufman Stefan Keller Igor Kononenko Juergen Kreuziger Ryszard S. Michalski Tom Mitchell Peter Pachowicz Yoram Reich Haleh Vafaie Walter Van de Welde Walter Wenzel Janusz Wnek and Jianping Zhang. - The MONK's problems a performance comparison of different learning algorithms.
+[496, thrun1991a] Sebastian B. Thrun Jerzy Bala Eric Bloedorn Bojan Cestnik John Cheng Kenneth De Jong Saso Dzeroski Douglas Fisher Scott E. Fahlman Rainer Hamann Kenneth Kaufman Stefan Keller Igor Kononenko Juergen Kreuziger Ryszard S. Michalski Tom Mitchell Peter Pachowicz Yoram Reich Haleh Vafaie Walter Van de Welde Walter Wenzel Janusz Wnek and Jianping Zhang. - The MONK's problems a performance comparison of different learning algorithms.
+[497, thrun1991a] Sebastian B. Thrun Jerzy Bala Eric Bloedorn Bojan Cestnik John Cheng Kenneth De Jong Saso Dzeroski Douglas Fisher Scott E. Fahlman Rainer Hamann Kenneth Kaufman Stefan Keller Igor Kononenko Juergen Kreuziger Ryszard S. Michalski Tom Mitchell Peter Pachowicz Yoram Reich Haleh Vafaie Walter Van de Welde Walter Wenzel Janusz Wnek and Jianping Zhang. - The MONK's problems a performance comparison of different learning algorithms.
+[498, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang - The MONK's problems a performance comparison of different learning algorithms.
+[499, thrun1991a] Thrun Bala Bloedorn Bratko Cestnik Cheng De Jong Dzeroski Fisher Fahlman Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Reich Vafaie Van de Welde Wenzel Wnek J. and Zhang - The MONK's problems a performance comparison of different learning algorithms.
+[500, thrun1991a] S. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski D. Fisher S. E. Fahlman R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R. S. Michalski T.M. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The MONK's problems a performance comparison of different learning algorithms.
+[501, thrun1991a] S. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski D. Fisher S. E. Fahlman R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R. S. Michalski T.M. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The MONK's problems a performance comparison of different learning algorithms.
+[502, thrun1991a] S. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski D. Fisher S. E. Fahlman R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R. S. Michalski T.M. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The MONK's problems a performance comparison of different learning algorithms.
+[503, thrun1991a] Thrun. S.B. Bala Bloedorn Bratko Cestnik Cheng De Jong Dzeroski Fahlman Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Vafaie Van de Velde Wenzel Wnek and Zhang - The MONKs Problems: A Performance Comparison of Different Learning Algorithms,
+[504, thrun1991a] S. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The monk's problems a performance comparison of different learning algorithms.
+[505, thrun1991a] S.B. Thrun J. Bala E. Bloedorn B. Cheng I. Bratko S. Dzeroski k. De-Jong S. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie K. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The monk's problem: a performance comparison of different learning algorithms.
+[506, thrun1991a] Thrun Bala Bloedorn Bratko Cestnik Cheng De Jong Dzeroski Fisher Fahlman Hamann Kaufman 8 Keller Kononenko Kreuziger Michalski Mitchell Pa--chowicz Reich Vafaie Van de Welde Wenzel Wnek J. and Zhang - The MONK's problems a performance comparison of different learning algorithms.
+[507, thrun1991a] S. B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. de Jong S. Dze-roski S. E. Fahlman D. Fisher R. Hamann K. Kaufaman S. Keller I. Kononenko J. Kreusiger R. S. Michalski T. Mitchell P. Pachowitz Y. Reich H. Vafaic W. Van de Weldel W. WEnzel J. Wnek and J. Zhang. - The monk's problems: a performance comparison of different learning algorithms.
+[508, thrun1991a] S. B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. de Jong S. Dze-roski S. E. Fahlman D. Fisher R. Hamann K. Kaufaman S. Keller I. Kononenko J. Kreusiger R. S. Michalski T. Mitchell P. Pachowitz Y. Reich H. Vafaic W. Van de Weldel W. WEnzel J. Wnek and J. Zhang. - The monk's problems: a performance comparison of different learning algorithms.
+[509, thrun1991a] Thrun Bala Bloedorn Bratko Cestnik Cheng De Jong Dzeroski Fisher Fahlman Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pa-chowicz Reich Vafaie Van de Welde Wenzel Wnek J. and Zhang - The MONK's problems a performance comparison of different learning algorithms.
+[510, thrun1991a] S. B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. de Jong S. Dzeroski S. E. Fahlman D. Fisher R. Hamann K. Kaufaman S. Keller I. Kononenko J. Kreusiger R. S. Michalski T. Mitchell P. Pachowitz Y. Reich H. Vafaic W. Van de Weldel W. WEnzel J. Wnek and J. Zhang. - The monk's problems: a performance comparison of different learning algorithms.
+[511, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Weldel W. Wenzel J. Wnek and J. Zhang. - The monk's problems: A performance comparison of different learning algorithms.
+[512, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Weldel W. Wenzel J. Wnek and J. Zhang. - The monk's problems: A performance comparison of different learning algorithms.
+[513, thrun1991a] Thrun Bala Bloedorn Bratko Cestnik Cheng De Jong D zeroski Fahlman Fisher Hamann Kauf-man Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Reich Vafaie Van de Velde Wenzel Wnek and Zhang - The MONK's Problems: a performance comparison of different learning algorithms.
+[514, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kauf-man S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang - The MONK's problems a performance comparison of different learning algorithms,
+[515, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang - The MONK's problems a performance comparison of different learning algorithms.
+[516, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowicz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang - The MONK's problems a performance comparison of different learning algorithms.
+[517, thrun1991a] S.B. Thrun J. Bala E. Bloedorn I. Bratko B. Cestnik J. Cheng K. De Jong S. Dzeroski S.E. Fahlman D. Fisher R. Hamann K. Kaufman S. Keller I. Kononenko J. Kreuziger R.S. Michalski T. Mitchell P. Pachowitz Y. Reich H. Vafaie W. Van de Welde W. Wenzel J. Wnek and J. Zhang. - The MONK's problems: A performance comparison of differ-ent learning algorithms.
+[518, thurn1991a] Thurn Bala Bloedorn Bratko Cestnik Cheng Jong Dzeroski Fahlman Fisher Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Reich Vafaie de Welde Wenzel Wnek and Zhang - The MONK's problems: A performance comparison of different learning algorithms.
+[519, thurn1991a] Thurn Bala Bloedorn Bratko Cestnik Cheng De Jong Dzeroski Fahlman Fisher Hamann Kaufman Keller Kononenko Kreuziger Michalski Mitchell Pachowicz Reich Vafaie Van de Welde Wenzel Wnek and Zhang - `The MONK's problems: A performance comparison of different learning algorithms',
+[520, vitek1992a] Vitek Horspool and Uhl - Compile-time analysis of object-oriented programs.
+[521, walter1987a] Walter Henke-Fahle S. and Bonhoeffer - 1987 Avoidance of posterior tectal membranes by temporal retinal axons.
+[522, weiss1993a] Weiss Edelman and Fahle - Models of perceptual learning in vernier hyperacuity.
+[523, weiss1993a] Weiss Edelman and Fahle - Models of perceptual learning in vernier hyperacuity.
+[524, weiss1993a] Weiss Edelman and Fahle - Models of perceptual learning in vernier hyperacuity.
+[525, weiss1993a] Weiss Edelman and Fahle - Models of perceptual learning in vernier hyperacuity.
+[526, weiss1993a] Weiss Edelman and Fahle - Models of perceptual learning in vernier hyperacuity.
+[527, weiss1993a] Weiss Edelman and Fahle - Models of perceptual learning in vernier hyperacuity.
+[528, white1994a] White M. and Fahlman - "Neural-bench benchmark collection",
+[529, wholey1984a] Wholey Skef and Fahlman Scott E. - The design of an instruction set for Common Lisp.
+[530, aha1987] Kibler and Aha D. W. - Learning representative exemplars of concepts: An initial case study.
+[531, aha1987] Kibler and Aha D. W. - Learning representative exemplars of concepts: An initial case study.
+[532, aha1987] Kibler and Aha D. W. - Learning representative exemplars of concepts: An initial case study.
+[533, aha1987] Kibler and Aha D. W. - Learning representative exemplars of concepts: An initial case study.
+[534, aha1987] Kibler and Aha - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[535, aha1987] Kibler and Aha - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[536, aha1987] Kibler and Aha D. W. - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[537, aha1987] Kibler and Aha D. W. - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[538, aha1987] Kibler and Aha David W. - Learning representative exemplars of concepts: An initial case study.
+[539, aha1987] Kibler and David W. Aha - Learning representative exemplars of concepts: An initial case study.
+[540, aha1987] Kibler and David W. Aha - Learning representative exemplars of concepts: An initial case study.
+[541, aha1987] Kibler and David W. Aha - Learning representative exemplars of concepts: An initial case study.
+[542, aha1987] D. Kibler and D. W. Aha. - Learning representative exemplars of concepts: an initial case study.
+[543, aha1987] D. Kibler and D. Aha. - Learning representative exemplars of concepts: An initial case study.
+[544, aha1987] D. Kibler and D. Aha. - Learning representative exemplars of concepts: An initial case study.
+[545, aha1987] D. Kibler and D. Aha. - Learning representative exemplars of concepts: An initial case study.
+[546, aha1987] D. Kibler and D. W. Aha. - Learning representative exemplars of concepts: an initial case study.
+[547, aha1987] Kibler and Aha - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[548, aha1987] Kibler and Aha - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[549, aha1987] Kibler and Aha - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[550, aha1987] D. Kibler and D. Aha. - Learning representative examplars of concepts; an initial study.
+[551, aha1987] Dennis Kibler and David W. Aha. - Learning representative exemplars of concepts: An initial case study.
+[552, aha1987] D. Kibler and D. W. Aha - "Learning Representative Exemplars of Concepts: An Initial Case Study,"
+[553, aha1989] Aha D. and Kibler - Noise-tolerant instance based leanring algorithms.
+[554, aha1989] Aha D. and Kibler - Noise-tolerant instance-based leanring algorithms.
+[555, aha1989] Aha D. and Kibler - Noise-tolerant instance-based learning algorithms.
+[556, aha1989] Aha D. and Kibler - Noise-tolerant instance-based learning algorithms.
+[557, aha1989] Aha D. and Kibler - Noise-tolerant instance-based learning algorithms.
+[558, aha1989] Aha D. W. and Kibler D. - Noise-Tolerant Instance-Based Learning Algorithms.
+[559, aha1989] Aha D. W. and Kibler - Noise-tolerant instance-based learning algorithms.
+[560, aha1989] Aha D. W. and Kibler - Noise-tolerant instance-based learning algorithms.
+[561, aha1989] Aha D. W. and Kibler - Noise-tolerant instance-based learning algorithms.
+[562, aha1989] Aha D. W. and Kibler - Noise-tolerant instance-based learning algorithms.
+[563, aha1989] Aha D. W. and Kibler - Noise-tolerant instance-based learning algorithms.
+[564, aha1989] Aha D. W. and Kibler - Noise-tolerant instance-based learning algorithms.
+[565, aha1989] Aha D. W. and Kibler - Noise-tolerant instance-based learning algorithms.
+[566, aha1989] Aha D. and Kibler - Noise-tolerant instace-based learning algorithms.
+[567, aha1989] Aha D. and Kibler - Noise-tolerant instace-based learning algorithms.
+[568, aha1989] Aha and Kibler - Noise tolerant instance-based learning algorithms.
+[569, aha1989] Aha and Kibler - Noise-tolerant Instance-based Learning Algorithms.
+[570, aha1989] Aha Kibler - Noise-tolerant instance-based learning algorithms,
+[571, aha1989] D. Aha and D. Kibler. - Noise-tolerant instance-based learning algorithms.
+[572, aha1989] Aha and Kibler - Noise-tolerant Instance-based Learning Algorithms.
+[573, aha1989] Aha and Kibler - Noise-tolerant Instance-based Learning Algorithms.
+[574, aha1989] David W. Aha and Dennis Kibler. - Noise-tolerant instance-based learning algorithms.
+[575, aha1989] D.W. Aha and D. Kibler. - Noise-tolerant instance-based learning algorithm.
+[576, aha1989] Aha D. and Kibler - Noise-tolerant instance-based learning algorithms.
+[577, aha1989] D. Aha and D. Kibler. - Noise-tolerant instance-based learning algorithms.
+[578, aha1989] D. Aha and D. Kibler. - Noise-tolerant instance-based learning algorithms.
+[579, aha1991] Aha D. W. Kibler D. and Albert - Instance-based learning algorithms.
+[580, aha1991] AHA KIBLER D. and ALBERT - Instance-based learning algorithms,
+[581, aha1991] AHA KIBLER D. and ALBERT - Instance-based learning algorithms,
+[582, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[583, aha1991] Aha Kibler E. Albert M.K.: - Instance-based learning algorithms.
+[584, aha1991] Aha Kibler and Albert - Instance-based learning algorithms,
+[585, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[586, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[587, aha1991] D.W. Aha D. Kibler and M.K. Albert: - Instance-based learning algorithms,
+[588, aha1991] D.W. Aha D. Kibler and M.K. Albert: - Instance-based learning algorithms,
+[589, aha1991] Aha D. W. D. Kibler and M. K. Albert - ``Instance Based Learning Algorithms,''
+[590, aha1991] Aha D. W. Kibler D. and Albert - "Instance-based learning algorithms",
+[591, aha1991] Aha D. W. Kibler D. and Albert - "Instance-based learning algorithms",
+[592, aha1991] Aha D. W. Kibler D. and Albert - "Instance-based learning algorithms",
+[593, aha1991] Aha D. W. Kibler D. and Albert - "Instance-based learning algorithms",
+[594, aha1991] Aha D. W. Kibler D. and Albert - "Instance-based learning algorithms",
+[595, aha1991] Aha D. W. Kibler D. and Albert - "Instance-based learning algorithms",
+[596, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[597, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[598, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[599, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[600, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[601, aha1991] Aha D. W. Kibler and Albert - `Instance-based learning algorithms'.
+[602, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[603, aha1991] Aha D. W. Kibler and Albert - Instance-Based Learning Algorithms.
+[604, aha1991] Aha D. W. Kibler and Albert - Instance-Based Learning Algorithms.
+[605, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[606, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[607, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[608, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[609, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[610, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[611, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[612, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[613, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[614, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[615, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[616, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[617, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[618, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[619, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[620, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[621, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[622, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[623, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[624, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[625, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[626, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[627, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[628, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[629, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[630, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[631, aha1991] Aha D. W. Kibler and Albert - Instance-Based Learning Algorithms.
+[632, aha1991] Aha D. W. Kibler and Albert - Instance-Based Learning Algorithms.
+[633, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms,
+[634, aha1991] Aha Kibler D. and Albert - Instance-Based Learning.
+[635, aha1991] Aha Kibler D. and Albert M. - Instance-based learning algorithms.
+[636, aha1991] Aha Kibler D. and Albert M. - Instance-based learning algorithms.
+[637, aha1991] Aha Kibler D. and Albert - Instance-Based Learning Algorithms.
+[638, aha1991] Aha Kibler D. and Albert M. - Instance based learning algorithms.
+[639, aha1991] Aha Kibler and Albert - Instance-based Learning Algorithms.
+[640, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[641, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[642, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[643, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[644, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[645, aha1991] Aha Kibler and Albert - Instance-based Learning Algorithms.
+[646, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[647, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[648, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[649, aha1991] Aha D. Kibler and Albert M.K. - Instance-Based Learning Algorithms,
+[650, aha1991] Aha D. Kibler and Albert M.K. - Instance-Based Learning Algorithms,
+[651, aha1991] Aha Kibler and Albert - Instance-based learning algorithms,
+[652, aha1991] Aha Kibler and Albert - Instance-based learning algorithms,
+[653, aha1991] Aha Kibler and Albert - Instance-based learning algorithms,
+[654, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[655, aha1991] Aha David W. Dennis Kibler Albert Marc K. - Instance-Based Learning Algorithms.
+[656, aha1991] Aha David W. Dennis Kibler Marc K. Albert - Instance-Based Learning Algorithms,
+[657, aha1991] Aha David W. Dennis Kibler Marc K. Albert - Instance-Based Learning Algorithms,
+[658, aha1991] Aha David W. Dennis Kibler Marc K. Albert - Instance-Based Learning Algorithms,
+[659, aha1991] Aha David W. Dennis Kibler Marc K. Albert. - Instance-Based Learning Algorithms.
+[660, aha1991] Aha David W. Dennis Kibler and Marc K. Albert - Instance-Based Learning Algorithms.
+[661, aha1991] Aha David W. Dennis Kibler and Marc K. Albert - Instance-Based Learning Algorithms.
+[662, aha1991] Aha David W. Dennis Kibler and Marc K. Albert - Instance-Based Learning Algorithms.
+[663, aha1991] Aha David W. Kibler Dennis and Albert Marc K. - Instance-Based Learning Algorithms.
+[664, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based Learning Algorithms.
+[665, aha1991] Aha D. W. Kibler Albert - "Instance-Based Learning Methods,"
+[666, aha1991] Aha D. W. Kibler Albert - "Instance-Based Learning Methods,"
+[667, aha1991] Aha D. W. Kibler Albert - "Instance-Based Learning Methods,"
+[668, aha1991] Aha D. Kibler Albert and M. - Instance-Based Learning Algorithms.
+[669, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[670, aha1991] D. Aha D. Kibler and M. Albert - "Instance-based learning algorithms,"
+[671, aha1991] D. Aha D. Kibler and M. Albert - "Instance-based learning algorithms,
+[672, aha1991] Aha Kibler D. and Albert - Instance-Based Learning Algorithms.
+[673, aha1991] Aha Kibler and Albert - M.K. Instance-Based Learning Algorithms.
+[674, aha1991] Aha Kibler and Albert - M.K. Instance-Based Learning Algorithms.
+[675, aha1991] Aha Kibler and Albert - M.K. Instance-Based Learning Algorithms.
+[676, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[677, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[678, aha1991] D. Aha D. Kibler and M. Albert - "Instance-based learning algorithms",
+[679, aha1991] D. Aha D. Kibler and M. Albert - "Instance-based learning algorithms",
+[680, aha1991] D. Aha D. Kibler and M. Albert - "Instance-based learning algorithms",
+[681, aha1991] D. Aha D. Kibler and M. Albert - "Instance-based learning algorithms",
+[682, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[683, aha1991] D.W. Aha D. Kibler and M.K. Albert - `Instance-Based Learning Algorithms',
+[684, aha1991] D.W. Aha D. Kibler and M.K. Albert. - Instance-based learning algorithms.
+[685, aha1991] Aha David W. Dennis Kibler Marc K. Albert - Instance-Based Learning Algorithms,
+[686, aha1991] Aha David W. Dennis Kibler Marc K. Albert - Instance-Based Learning Algorithms,
+[687, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[688, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[689, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[690, aha1991] Aha David W. Dennis Kibler Marc K. Albert - Instance-Based Learning Algorithms,
+[691, aha1991] Aha David W. Dennis Kibler Marc K. Albert - Instance-Based Learning Algorithms,
+[692, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[693, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[694, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[695, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[696, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[697, aha1991] David W. Aha Dennis Kibler and Marc K. Albert. - Instance-based learning algorithms.
+[698, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[699, aha1991] Aha D. W. D. Kibler and Albert M. K. - Instance-Based Learning Algorithms.
+[700, aha1991] Aha D. W. Kibler and Albert - `Instance-based learning algorithms'.
+[701, aha1992] (Aha and Goldstone 1992) Aha D. W. and Gold stone - Concept learning and flexible weighting.
+[702, aha1992] (Aha and Goldstone 1992) Aha D. W. and Gold-stone - Concept learning and flexible weighting.
+[703, cheng1996] S. H. Nienhuys-Cheng and R. De Wolf (1996). - Least Generalizations and Greatest Specializations of Sets of Clauses,
+[704, conery1981] J.S. Conery D.F. Kibler - Parallel interpretation of logic programs,
+[705, conery1981] J.S. Conery D.F. Kibler - Parallel interpretation of logic programs,
+[706, conery1981] J.S. Conery D.F. Kibler - Parallel interpretation of logic programs,
+[707, conery1981] J. S. Conery D. F. Kibler - Parallel Interpretation of Logic Programs,
+[708, conery1981] J. S. Conery D. F. Kibler - Parallel Interpretation of Logic Programs,
+[709, dasarathy1991] Dasarathy - Nearest Neighbor(NN) Norms
+[710, datta1992] Datta P. and Kibler - Utilizing prior concepts for learning.
+[711, datta1992] Datta P. and Kibler - Utilizing prior concepts for learning.
+[712, datta1992] Datta P. and Kibler - Utilizing prior concepts for learning. In Proceedings of the ML92 Workshop on Biases in Inductive Learning.
+[713, datta1992] Datta P. and Kibler - Utilizing prior concepts for learning.
+[714, datta1995] Datta P. and Kibler - Learning prototypical concept descriptions,
+[715, datta1995] Datta P. and Kibler - Learning Prototypical Concept Descriptions.
+[716, datta1995] Datta P. and Kibler - Learning Prototypical Concept Descriptions.
+[717, datta1995] Datta and Kibler - Learning prototypical concept descriptions.
+[718, datta1995] Datta and Kibler - Learning prototypical concept descriptions.
+[719, datta1995] Datta and Kibler - Learning prototypical concept descriptions.
+[720, datta1995] P. Datta and D. Kibler. - Learning prototypical concept descriptions.
+[721, hall1989] Hall Kibler Wenger and Truxaw - Exploring the episodic structure of algebra story problem solving.
+[722, hampson1995] Hampson S. and Kibler - Plateaus and plateau search in Boolean satisfiability problems: When to give up searching and start again.
+[723, hampson1995] Steven Hampson and Dennis Kibler. - Plateaus and plateau search in boolean satisfi-ability problems: When to give up searching and start again.
+[724, hampson1995] Steven Hampson and Dennis Kibler. - Plateaus and plateau search in boolean satisfi-ability problems: When to give up searching and start again.
+[725, hampson1995] Hampson and Kibler - Large plateaus and plateau search in boolean satisfia-bility problems: When to give up searching and start again.
+[726, hampson1995] Hampson and Kibler - Large plateaus and plateau search in boolean satisfia-bility problems: When to give up searching and start again.
+[727, hampson1995] S. Hampson and D. Kibler. - Plateaus and plateau search in boolean satisfiability problems: When to give up searching and start again.
+[728, hu1996] Hu Y. and Kibler - "Generation of Attributes for Learning Algorithms",
+[729, hu1996] Hu and Kibler - "Generation of Attributes for Learning Algorithms",
+[730, kelly1991] Kelly J. D. and Davis - A Hybrid Genetic Algorithm for Classification.
+[731, kelly1991] Kelly J. D. and Davis - A Hybrid Genetic Algorithm for Classification.
+[732, kibler1978] Kibler - (1978) Power, Efficiency, and Correctness of Transformation Systems . Ph.D.
+[733, kibler1981] D. Kibler and P. Morris. - Don't Be Stupid.
+[734, kibler1983] Kibler and Porter - Episodic learning.
+[735, kibler1985] D. Kibler. - Natural generation of heuristics by transforming the problem representation.
+[736, kibler1988] D. Kibler and P. Langley. - Machine learning as an experimental science.
+[737, kibler1988] D. Kibler and P. Langley. - Machine learning as an experimental science.
+[738, kibler1988] D. Kibler and P. Langley. - Machine learning as an experimental science.
+[739, kibler1988] Kibler D. and Langley - Machine Learning as an Experimental Science.
+[740, kibler1988] Kibler D. and Langley - Machine Learning as an Experimental Science.
+[741, kibler1988] Kibler D. and Langley - Machine Learning as an Experimental Science.
+[742, kibler1988] Kibler D. and Langley - Machine learning as an experimental science,
+[743, kibler1988] Kibler D. and Langley - Machine learning as an experimental science,
+[744, kibler1988] Kibler D. and Langley - Machine Learning as an Experimental Science.
+[745, kibler1988] Kibler D. and Langley - Machine Learning as an Experimental Science.
+[746, kibler1988] Kibler D. and Langley - Machine learning as an experimental science.
+[747, kibler1988] Kibler D. and Langley - Machine learning as an experimental science.
+[748, kibler1988] Kibler D. and Langley - Machine learning as an experimental science.
+[749, kibler1988] Kibler D. and Langley - Machine learning as an experimental science.
+[750, kibler1988] Kibler D. and Langley P. - Machine Learning as an Experimental Science.
+[751, kibler1988] Kibler and Langley - Machine Learning as an Experimental Science.
+[752, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[753, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[754, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[755, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[756, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[757, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[758, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[759, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[760, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[761, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[762, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[763, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[764, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[765, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[766, kibler1988] D. Kibler and P. Langley - Machine Learning as an Experimental Science, in:
+[767, kibler1988] Dennis Kibler and Pat Langley. - Machine Learning As An Experimental Science.
+[768, kibler1988] Dennis Kibler and Pat Langley. - Machine Learning As An Experimental Science.
+[769, kibler1988] D. Kibler and P. Langley. - Machine Learning As An Experimental Science.
+[770, kibler1988] D. Kibler and P. Langley. - Machine Learning As An Experimental Science.
+[771, kibler1988] Dennis Kibler and Pat Langley. - Machine learning as an experimental science.
+[772, kibler1988] Dennis Kibler and Pat Langley. - Machine learning as an experimental science.
+[773, kibler1988] Pat Langley and Dennis Kibler. - The experimental study of machine learning.
+[774, kibler1988] Pat Langley and Dennis Kibler. - The experimental study of machine learning.
+[775, kibler1988a] Kibler D. and Aha - Comparing Instance-Averaging with Instance-Filtering Learning Algorithms.
+[776, kibler1988a] Kibler and Aha D. W. - Comparing instance-averaging with instance-filtering learning algorithms.
+[777, kibler1988a] Kibler and Aha D. W. - Comparing instance-averaging with instance-filtering learning algorithms.
+[778, kibler1988a] D. Kibler and D. Aha. - Comparing instance-averaging with instance-filtering learn ing algorithms.
+[779, kibler1988a] D. Kibler and D. Aha. - Comparing instance-saving with instance-averaging learn ing algorithms.
+[780, kibler1989] D. Kibler D.W. Aha and M.K. Albert: - Instance-based prediction of real-valued attributes,
+[781, kibler1989] D. Kibler D.W. Aha and M.K. Albert: - Instance-based prediction of real-valued attributes,
+[782, kibler1989] Kibler Aha and M.K. Albert - Instance-based prediction of real-valued attributes,
+[783, kibler1989] Kibler D. Aha D. W. and Albert - Instance-based prediction of real-valued attributes.
+[784, kibler1991] D. Kibler D. Aha and M. K. Albert. - Instance-based learning algorithms.
+[785, langley1986] Langley Kibler D. and Granger - Components of Learning in a reactive environment. In T.M.
+[786, nilsson1994] Nilsson - "Teleo-reactive programs for agent control",
+[787, nilsson1994] Nilsson - "Teleo-reactive programs for agent control",
+[788, nilsson1994] Nilsson - "Teleo-reactive programs for agent control",
+[789, norvig1992] Norvig - Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp.
+[790, norvig1992] Norvig - Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp.
+[791, norvig1992] Norvig - Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp.
+[792, norvig1992] Norvig - Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp.
+[793, ortega1995] Ortega and Fisher - Flexibly exploiting prior knwledge in empirical learning.
+[794, pazzani1990] Pazzani Kibler - The utility of knowledge in inductive learning.
+[795, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning
+[796, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning
+[797, pazzani1990] Michael Pazzani and Dennis Kibler. - The utility of knowledge in inductive learning.
+[798, pazzani1990] M. Pazzani and D. Kibler - The Utility of Knowledge in Inductive Learning,
+[799, pazzani1990] Pazzani M. and Kibler D. - The utility of knowledge in inductive learning.
+[800, pazzani1990] Pazzani M. and Kibler D. - The utility of knowledge in inductive learning.
+[801, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[802, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[803, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[804, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[805, pazzani1990] Pazzani Kibler - The utility of knowledge in inductive learning.
+[806, pazzani1990] Pazzani and Kibler - The role of prior knowledge in inductive learning.
+[807, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[808, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[809, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[810, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[811, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning .
+[812, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[813, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[814, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[815, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[816, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[817, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[818, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[819, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[820, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[821, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[822, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[823, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[824, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[825, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[826, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[827, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[828, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[829, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[830, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[831, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[832, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[833, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[834, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[835, pazzani1990] Pazzani and Kibler - The utility of prior knowledge in inductive learning.
+[836, pazzani1990] Pazzani and Kibler - The utility of prior knowledge in inductive learning.
+[837, pazzani1990] Pazzani Michael and Kibler Dennis 1992. - The utility of knowledge in inductive learning.
+[838, pazzani1990] Pazzani M. J. and Kibler - The role of prior knowledge in inductive learning.
+[839, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[840, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[841, pazzani1990] M. Pazzani and D. Kibler - "The utility of knowledge in inductive learning,"
+[842, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[843, pazzani1990] Michael Pazzani and Dennis Kibler. - The utility of knowledge in inductive learning.
+[844, pazzani1990] M. Pazzani and D. Kibler - "The utility of knowledge in inductive learning,"
+[845, pazzani1990] M. Pazzani and D. Kibler - "The utility of knowledge in inductive learning,"
+[846, pazzani1990] Michael Pazzani and Dennis Kibler. - The utility of knowledge in inductive learning.
+[847, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[848, pazzani1990] Pazzani M. and Kibler D. - The utility of knowledge in inductive learning.
+[849, porter1986] Porter and Kibler D. F. - Experimental goal regression: A method for learning problem-solving heuristics.
+[850, porter1986] Porter and Kibler D. F. - Experimental goal regression: A method for learning problem-solving heuristics.
+[851, porter1986] Porter and Kibler D. F. - Experimental goal regression: A method for learning problem-solving.
+[852, porter1986] Porter and Kibler D. F. - Experimental goal regression: A method for learning problem-solving.
+[853, porter1986] Porter and Kibler D. F. - Experimental goal regression: A method for learning problem-solving.
+[854, ruby1989] D. Ruby and D. Kibler. - Learning subgoal sequences for planning.
+[855, ruby1989] Ruby and Kibler - Learning subgoal sequences for planning.
+[856, ruby1991] Ruby and Kibler - Learning subgoal sequences for planning.
+[857, ruby1991] Ruby and Kibler - Learning subgoal sequences for planning.
+[858, ruby1991] Ruby and Kibler - Learning subgoal sequences for planning.
+[859, ruby1991a] Ruby Kibler - SteppingStone: An empirical and analytical evaluation.
+[860, ruby1991a] Ruby Kibler - SteppingStone: An empirical and analytical evaluation.
+[861, ruby1992] Ruby and Kibler - Learning episodes for optimization.
+[862, ruby1992] David Ruby and Dennis Kibler. - Learning Episodes for Optimization.
+[863, ruby1992] David Ruby and Dennis Kibler. - Learning Episodes for Optimization.
+[864, ruby1992] David Ruby and Dennis Kibler. - Learning episodes for optimization.
+[865, rudy1992] Rudy Kibler - Learning episodes for optimization.
+[866, skiblics1996] Suzanne Skiblics Edward J. Klimas and David A. Thomas. - Smalltalk with Style.
+[867, standish1976] T. A. Standish D. C. Harriman D. F. Kibler and J. M. Neighbors - The Irvine Program Transformation Catalogue,
+[868, webber1994] Townsend-Webber T. and Kibler - Instance-based prediction of continuous values.
+[869, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[870, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[871, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[872, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[873, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[874, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[875, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[876, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[877, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[878, weber1994] Townsend-Weber and Kibler - Instance-based prediction of continuous values.
+[879, aha1987] Aha D. and Kibler - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[880, aha1987] Aha D. and Kibler - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[881, aha1987] Aha D. and Kibler - Learning Representative Exemplars of Concepts: An Initial Case Study.
+[882, aha1987] D. Kibler and D. W. Aha. - Learning representative exemplars of concepts: An initial case study.
+[883, aha1987] D. Kibler and D.W. Aha - Learning representative examples of concepts: an initial case study.
+[884, aha1987] Dennis Kibler and David W. Aha. - Learning representative exemplars of concepts: an initial case study. In P. Langley, editor,
+[885, kibler1988a] D. Kibler and D. W. Aha - Comparing Instance Averaging and Instance Filtering Learning Algorithms,
+[886, kibler1988a] D. Kibler and D. W. Aha - Comparing Instance Averaging and Instance Filtering Learning Algorithms,
+[887, kibler1988a] D. Kibler and D. W. Aha - Comparing Instance Averaging and Instance Filtering Learning Algorithms,
+[888, kibler1988a] D. Kibler and D. W. Aha - Comparing Instance Averaging and Instance Filtering Learning Algorithms,
+[889, aha1991] D. Aha D. Kibler and M. Albert. - Instance-Based Learning Algorithms.
+[890, aha1991] D. Aha D. Kibler and M. Albert. - Instance-Based Learning Algorithms.
+[891, aha1991] D. Aha D. Kibler and M. Albert. - Instance-Based Learning Algorithms.
+[892, aha1991] D.W. Aha D. Kibler and M.K. Albert. - Instance-based learning algorithms.
+[893, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[894, aha1991] David W. Aha Dennis Kibler and Mark K. Albert. - Instance-based learning algorithms.
+[895, aha1991] David W. Aha Dennis Kibler and Mark K. Albert. - Instance-based learning algorithms.
+[896, aha1991] Aha D. W. D. Kibler and M. Albert. - Instance-based learning algorithms.
+[897, aha1991] Aha D. W. D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[898, aha1991] Aha D. W. D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[899, aha1991] Aha D. W. Kibler D. and Albert - Instance-Based Learning Algorithms.
+[900, aha1991] Aha D. W. Kibler D. and Albert - Instance-Based Learning Algorithms.
+[901, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[902, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[903, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[904, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[905, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[906, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[907, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[908, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[909, aha1991] Aha D. W. Kibler and Albert - Instance-based learning algorithms.
+[910, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based Learning Algorithms.
+[911, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[912, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[913, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[914, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[915, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[916, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[917, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[918, aha1991] Aha D. W.; Kibler Albert - Instance-based learning algorithms.
+[919, aha1991] Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[920, aha1991] Aha Kibler D. and Albert - Instance-Based Learning Algorithms.
+[921, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[922, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[923, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[924, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[925, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[926, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[927, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[928, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[929, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[930, aha1991] Aha D.; Kibler D.; and Albert - Instance-based learning algorithms.
+[931, aha1991] Aha D.; Kibler D.; and Albert - Instance-based learning algorithms.
+[932, aha1991] Aha Kibler and Albert - Instance-based learning algorithms,
+[933, aha1991] Aha Kibler and Albert - Instance-based learning algorithms,
+[934, aha1991] Aha D.W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[935, aha1991] D. W. Aha D. Kibler and M. K. Albert. - (1991) Instance-based learning algorithms.
+[936, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[937, aha1991] David W. Aha Dennis Kibler and M. K. Albert. - Instance-based learning algorithms.
+[938, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[939, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based Learning Algorithms.
+[940, aha1991] Aha D. W.; Kibler D.; and Albert - Instance-based learning algorithms.
+[941, aha1991] D Aha D Kibler and M Albert. - Instance-based learning algorithms.
+[942, aha1991] D W Aha D Kibler and M K Albert. - Instance-based learning algorithms.
+[943, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[944, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[945, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[946, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[947, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[948, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[949, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[950, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[951, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[952, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[953, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[954, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[955, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instancebased learning algorithms.
+[956, aha1991] D.W. Aha D. Kibler and M.K. Albert. - Instance-based learning algorithms.
+[957, aha1991] D.W. Aha D. Kibler and M.K. Albert. - Instance-based learning algorithms.
+[958, aha1991] D.W. Aha D. Kibler and M.K. Albert. - Instance-based learning algorithms.
+[959, aha1991] David W. Aha Dennis Kibler and Marc K. Albert. - Instance-based learning algorithms.
+[960, aha1991] David W. Aha Dennis Kibler and Marc K. Albert. - Instance-based learning algorithms.
+[961, aha1991] David W. Aha Dennis Kibler and Marc K. Albert. - Instance-based learning algorithms.
+[962, aha1991] D. W. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[963, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-Based Learning Algorithms.
+[964, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-Based Learning Algorithms.
+[965, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[966, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[967, aha1991] D.W. Aha D. Kibler and M.K. Albert - . Instance-Based Learning Algorithms.
+[968, aha1991] D. Aha and D. Kibler. - Noise-tolerant instance-based learning algorithms.
+[969, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[970, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[971, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[972, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[973, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[974, aha1991] David W. Aha Dennis Kibler and Marc K. Albert. - Instance-based learning algorithms.
+[975, aha1991] D W Aha D Kibler and M K Albert. - Instance-based learning algorithms.
+[976, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[977, aha1991] D. W. Aha D. Kibler and J. K. Albert. - Instance-based learning algorithms.
+[978, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[979, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[980, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[981, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[982, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[983, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[984, aha1991] David W. Aha Dennis Kibler and Marc K. Albert. - Instance-based learning algorithms.
+[985, aha1991] David W. Aha Dennis Kibler and Marc K. Albert. - Instance-based learning algorithms.
+[986, aha1991] Aha Kibler and Albert - "Instance-Based Learning Algorithms,"
+[987, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[988, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[989, aha1991] Aha Kibler and Albert - Instance-Based Learning Algorithms.
+[990, aha1991] D. Aha D. Kibler and M. Albert. - Instance-Based Learning Algorithms.
+[991, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[992, aha1991] D. W. Aha D. Kibler and M. K. Al-bert. - Instance-based learning algorithms.
+[993, aha1991] D. W. Aha D. Kibler and M. K. Al-bert. - Instance-based learning algorithms.
+[994, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[995, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[996, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[997, aha1991] David W. Aha Dennis Kibler and Marc K. Albert. - Instance-based learning algorithms.
+[998, aha1991] David W. Aha Dennis Kibler and Mark K. Albert. - Instance-based learning algorithms.
+[999, aha1991] David W. Aha Dennis Kibler and Mark K. Albert. - Instance-based learning algorithms.
+[1000, aha1991] D. W. Aha D. Kibler and M. K. Albert. - Instance-based learning algorithms.
+[1001, aha1991] D.W. Aha D. Kibler and M.K. Albert - Instance-based learning algorithms,
+[1002, aha1991] D.W. Aha D. Kibler and M.K. Albert - Instance-based learning algorithms.
+[1003, aha1991] Aha Kibler and Albert - Instance-based learning algorithms.
+[1004, aha1991] D. Aha D. Kibler and M. Albert. - Instance-based learning algorithms.
+[1005, conery19xx] Kibler D. and Conery - Parallelism in AI Programs.
+[1006, conery1983] John S. Conery and Dennis F. Kibler. - AND parallelism in logic programs.
+[1007, conery1985] J.S. Conery and D.F. Kibler. - And parallelism and nondeterminism in logic programs.
+[1008, conery1985a] J. S. Conery and D. F. Kibler. - Parallelism in ai programs.
+[1009, conery1985] J.S. Conery and D.F. Kibler. - And parallelism and nondeterminism in logic programs.
+[1010, aha1991] Aha DW Kibler D Albert MK. - Instance-based Learning Methods,
+[1011, kibler1981] D. Kibler and P. Morris. - Don't be stupid.
+[1012, kibler1985] Dennis Kibler. - Natural generation of heuristics by transforming the problem representation.
+[1013, kibler1985] Kibler - Natural Generation of Heuristics by Transforming the the Problem Representation.
+[1014, porter1986] B. Porter and D. Kibler. - Experimental goal regression: A method for learning problem-solving heuristics.
+[1015, aha1987] Kibler D. and Aha - Learning representative exemplars of concepts: An initial case study.
+[1016, aha1987] Dennis Kibler and David W. Aha. - Learning representative exemplars of concepts: An initial case study.
+[1017, aha1987] Dennis Kibler and David W. Aha. - Learning representative exemplars of concepts: An initial case study.
+[1018, kibler1988] Kibler D. and Langley - Machine Learning as an Experimental Science.
+[1019, kibler1988] Kibler and Langley - Machine learning as an experimental science.
+[1020, kibler1988] Kibler D. Langley P.: - Machine Learning as an Experimental Science,
+[1021, kibler1988] Kibler D. and Langley - Machine Learning as an Experimental Science.
+[1022, kibler1989] Kibler D. and Aha D. W. - Instance-based prediction of real-valued attributes.
+[1023, kibler1989] Kibler D. and Aha D. W. - Instance-based prediction of real-valued attributes.
+[1024, kibler1989] Kibler Aha D. W. and Albert - Instance-based prediction of real-valued attributes.
+[1025, kibler1989] Kibler Aha and Albert - Instance-based prediction of real-valued attributes,
+[1026, kibler1989] Kibler Aha and Albert - Instance-based prediction of real-valued attributes,
+[1027, kibler1989] D. Kibler D. W. Aha and M. K. Albert. - Instance-Based Prediction of Real-Valued Attributes.
+[1028, kibler1989] D. Kibler D. W. Aha and M. K. Albert. - Instance-Based Prediction of Real-Valued Attributes.
+[1029, kibler1989] D. Kibler and D. W. Aha. - Instance-based prediction of real-valued attributes.
+[1030, kibler1989] D. Kibler and D. W. Aha. - Instance-based prediction of real-valued attributes.
+[1031, pazzani1990] Pazzani M. and Kibler - The Utility of Knowledge in Inductive Learning.
+[1032, pazzani1990] Pazzani and Kibler - "The Utility of Knowledge in Inductive Learning,"
+[1033, pazzani1990] Michael Pazzani and Dennis Kibler. - The role of prior knowledge in inductive learning.
+[1034, kibler1992] Michael Pazzani and Dennis Kibler. - The role of prior knowledge in inductive learning.
+[1035, kibler1992] Michael Pazzani and Dennis Kibler. - The role of prior knowledge in inductive learning.
+[1036, kibler1992] Micheal Pazzani and Dennis Kibler. - The utility of knowledge in inductive learning.
+[1037, kibler1993] Dennis Kibler (1993). - Some real-world domains for learning problem solvers.
+[1038, kibler1993] Dennis Kibler (1993). - Some real-world domains for learning problem solvers.
+[1039, kibler1993] Dennis Kibler (1993). - Some real-world domains for learning problem solvers.
+[1040, learning1991] Pazzani M. and Kibler D. - The utility of knowledge in inductive learning.
+[1041, learning1991] Pazzani M. and Kibler D. - The utility of knowledge in inductive learning.
+[1042, learning1991] Pazzani M. and Kibler D. - The utility of knowledge in inductive learning.
+[1043, learning1991] Pazzani M. and Kibler D. - The utility of knowledge in inductive learning.
+[1044, learning1992] Pazzani M Kibler D. - The utility of knowledge in Inductive learning.
+[1045, learning1992] Pazzani M. Kibler D.: - The Utility of Knowledge in Inductive Learning,
+[1046, ourston1994] Ourston D. and Mooney - Theory refinement combining analytical and empirical methods.
+[1047, ourston1994] Ourston D. and Mooney - Theory refinement combining analytical and empirical methods.
+[1048, ourston1994] Ourston D. and Mooney - Theory refinement combining analytical and empirical methods.
+[1049, pazzani1990] M. Pazzani and D. Kibler. - The utility of background knowledge in inductive learning.
+[1050, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning,
+[1051, pazzani1990] M. Pazzani and D. - Kibler The utility of knowledge in inductive learning Machine Learning,
+[1052, pazzani1990] M. Pazzani and D. Kibler. - The utility of background knowledge in inductive learning.
+[1053, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1054, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1055, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1056, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1057, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1058, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1059, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1060, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1061, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1062, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1063, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1064, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1065, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[1066, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1067, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1068, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1069, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1070, pazzani1990] Pazzani M. and Kibler - The Utility of Knowledge in Inductive Learning,
+[1071, pazzani1990] Pazzani M. and Kibler - The Utility of Knowledge in Inductive Learning,
+[1072, pazzani1990] Pazzani and Kibler - The Utility of Knowledge in Inductive Learning.
+[1073, pazzani1990] Pazzani and Kibler - The Utility of Knowledge in Inductive Learning.
+[1074, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1075, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1076, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1077, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1078, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1079, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1080, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1081, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1082, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1083, pazzani1990] Pazzani and Kibler - The utility of background knowledge in inductive learning.
+[1084, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[1085, pazzani1990] Pazzani and Kibler - The utility of knowledge in inductive learning.
+[1086, pazzani1990] Pazzani and Kibler - The utility of prior knowledge in inductive learning.
+[1087, pazzani1990] M. Pazzani and D. Kibler. - The utility of background knowledge in inductive learning.
+[1088, pazzani1990] M. Pazzani and D. Kibler. - The utility of background knowledge in inductive learning.
+[1089, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[1090, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[1091, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[1092, pazzani1990] Micheal J. Pazzani and Dennis Kibler. - The utility of knowledge in inductive learning.
+[1093, pazzani1990] Micheal J. Pazzani and Dennis Kibler. - The utility of knowledge in inductive learning.
+[1094, pazzani1990] M. Pazzani and D. Kibler. - The utility of prior knowledge in inductive learning.
+[1095, pazzani1990] M. Pazzani and D. Kibler. - The utility of prior knowledge in inductive learning.
+[1096, pazzani1990] Micheal J. Pazzani and Dennis Kibler. - The role of prior knowledge in inductive learning.
+[1097, pazzani1990] Micheal J. Pazzani and Dennis Kibler. - The role of prior knowledge in inductive learning.
+[1098, pazzani1990] Micheal J. Pazzani and Dennis Kibler. - The role of prior knowledge in inductive learning.
+[1099, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[1100, pazzani1990] Micheal J. Pazzani and Dennis Kibler. - The role of prior knowledge in inductive learning.
+[1101, pazzani1990] M. Pazzani and D. Kibler. - The utility of background knowledge in inductive learning.
+[1102, pazzani1990] M. Pazzani and D. Kibler. - The utility of background knowledge in inductive learning.
+[1103, pazzani1990] Pazzani M. and D. Kibler - "The Utility of Knowledge in Inductive Learning",
+[1104, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1105, pazzani1990] Pazzani M. and Kibler - The utility of knowledge in inductive learning.
+[1106, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[1107, pazzani1990] Pazzani and Kibler - "The utility of knowledge in inductive learning",
+[1108, pazzani1990] Pazzani and Kibler - "The utility of knowledge in inductive learning",
+[1109, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[1110, pazzani1990] M. Pazzani and D. Kibler. - The utility of knowledge in inductive learning.
+[1111, porter1986] Bruce Porter and Dennus Kibler. - Experimental goal regression: A method for learning problem-solving heuristics.
+[1112, porter1986] Bruce Porter and Dennus Kibler. - Experimental goal regression: A method for learning problem-solving heuristics.
+[1113, porter1986] Bruce Porter and Dennus Kibler. - Experimental goal regression: A method for learning problem-solving heuristics.
+[1114, porter1986] Bruce Porter and Dennus Kibler. - Experimental goal regression: A method for learning problem-solving heuristics.
+[1115, porter1986] Bruce Porter and Dennus Kibler. - Experimental goal regression: A method for learning problem-solving heuristics.
+[1116, ruby1989] David Ruby and Dennis Kibler. - Learning subgoal sequences for planning.
+[1117, ruby1991a] Ruby and Kibler - SteppingStone: An empirical and analyt ical evaluation.
+[1118, ruby1991a] Ruby and Kibler - SteppingStone: An empirical and analytical evaluation.
+[1119, ruby1991a] Ruby and Kibler - SteppingStone: An empirical and analytical evaluation.
+[1120, ruby1991] D. Ruby and D. Kibler. - Learning subgoal sequences for planning.
+[1121, ruby1991] D. Ruby and D. Kibler. - Learning subgoal sequences for planning.
+[1122, sklansky1976] J. Sklansky and D. F. Kibler. - A theory of nonuniformity in digitized binary pictures.
+[1123, brodley1992] Brodley C. E. and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1124, brodley1992] Brodley C. E. and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1125, brodley1992] Brodley C. E. and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1126, brodley1992] Brodley C. E. and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1127, brodley1992] Brodley C. E. and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1128, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1129, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1130, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1131, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees,
+[1132, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1133, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1134, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1135, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1136, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1137, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1138, brodley1992] Brodley and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1139, brodley1992] Brodley and Utgoff P. E. - Multivariate Versus Univariate Decision Trees.
+[1140, brodley1992] C.E. Brodley and P.E. Ut-goff - Multivariate versus univariate decision trees.
+[1141, brodley1992] C.E. Brodley and P.E. Utgoff - Multivariate versus univariate decision trees.
+[1142, brodley1992] Brodley and Utgoff P. E. - Multivariate Versus Univariate Decision Trees.
+[1143, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1144, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1145, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1146, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1147, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1148, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1149, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1150, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1151, brodley1992] Carla E. Brodley and Paul E. Utgoff. - Multivariate versus univariate decision trees.
+[1152, brodley1992] Brodley and Utgoff - Multivariate Versus Univariate Decision Trees.
+[1153, brodley1992b] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1154, brodley1992b] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1155, brodley1992b] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1156, brodley1992b] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1157, brodley1992b] C.E. Brodley and P.E. Utgoff. - Multivariate versus univariate decision trees.
+[1158, brodley1992b] C.E. Brodley and P.E. Utgoff. - Multivariate versus univariate decision trees.
+[1159, brodley1992b] Carla E. Brodley and Paul Utgoff. - Multivariate decision trees.
+[1160, brodley1992b] Carla E. Brodley and Paul Utgoff. - Multivariate decision trees.
+[1161, brodley1992b] Brodley C. E. and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1162, brodley1992b] Brodley C. E. and Utgoff P. E. - Multivariate versus univariate decision trees.
+[1163, brodley1992b] C.E. Brodley and P.E. Utgoff - Multivariate versus univariate decision trees.
+[1164, brodley1994] C. E. Brodley and P. E. Utgoff. - Goal-directed Classification Using Linear Machine Decision Trees.
+[1165, brodley1994] C. E. Brodley and P. E. Utgoff. - Goal-directed Classification Using Linear Machine Decision Trees.
+[1166, brodley1994] C. E. Brodley and P. E. Ut-goff. - Goal-directed Classification Using Linear Machine Decision Trees.
+[1167, brodley1994] B. Draper C. E. Brodley and P. Utgoff. - Goal-directed Classification Using Linear Machine Decision Trees.
+[1168, brodley1994] C. E. Brodley and P. E. Utgoff. - Goal-directed Classification Using Linear Machine Decision Trees.
+[1169, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1170, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1171, brodley1995] Brodley C. E. and Utgoff P. E. - , "Multivariate decision trees",
+[1172, brodley1995] Brodley C. E. and Utgoff P. E. - Multivariate decision trees.
+[1173, brodley1995] Brodley C. E. and Utgoff P. E. - Multivariate decision trees.
+[1174, brodley1995] Brodley C. E. and Utgoff P. E. - Multivariate decision trees,
+[1175, brodley1995] Brodley C. E. and Utgoff P. E. - Multivariate decision trees,
+[1176, brodley1995] Brodley C. E. and Utgoff P. E. - Multivariate decision trees,
+[1177, brodley1995] Brodley and Utgoff P. E. - (in press). Multivariate decision trees.
+[1178, brodley1995] Brodley and Utgoff P. E. - Multivariate decision trees.
+[1179, brodley1995] Brodley and Utgoff P. E. - Multivariate decision trees.
+[1180, brodley1995] Brodley and Utgoff P. E. - Multivariate decision trees.
+[1181, brodley1995] Brodley and Utgoff P. E. - Multivariate decision trees.
+[1182, brodley1995] Brodley and Utgoff P. E. - Multivariate decision trees.
+[1183, brodley1995] Brodley and Utgoff P. E. - Multivariate decision trees.
+[1184, brodley1995] Brodley and Utgoff P. E. - Multivariate decision trees.
+[1185, brodley1995] Brodley and Utgoff P. E. - Multivariate decision trees.
+[1186, brodley1995] Brodley Utgoff P. E. - Multivariate Decision Trees,
+[1187, brodley1995] Brodley C.E. and Utgoff P.E. - Multivariate Decision Trees,
+[1188, brodley1995] Brodley C.E. and Utgoff P.E. - Multivariate Decision Trees,
+[1189, brodley1995] Brodley and Utgoff - "Multivariate Decision Trees",
+[1190, brodley1995] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1191, brodley1995] Brodley C.E. and Utgoff - "Multivariate Decision Trees",
+[1192, brodley1995] C.E. Brodley and P.E. Utgoff - "Multivariate decision trees",
+[1193, brodley1995] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1194, brodley1995] Brodley and Utgoff P. E. - Multivariate Decision Trees.
+[1195, brodley1995] Carla Brodley and Paul Utgoff. - "Linear Machine Decision Trees,"
+[1196, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1197, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1198, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1199, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1200, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1201, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1202, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1203, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1204, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1205, brodley1995] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1206, brodley1995] C.E. Brodley and P.E. Utgoff - "Multivariate decision trees",
+[1207, brodley1995] C. Brodley and P. Utgoff. - Multivariate trees.
+[1208, brodley1995] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1209, brodley1995] C. E. Brodley and P. E. Utgoff. - Multivariate decision trees.
+[1210, brodley1995] Brodley and Utgoff - Multivariate Decision Trees.
+[1211, brodley1995] Carla E. Brodley and Paul E. Utgoff. - Multivariate decision trees.
+[1212, brodley1995] C.E. Brodley and P.E. Utgoff - Multivariate decision trees.
+[1213, brodley1995] C. Brodley P. Utgoff - "Multivriate Decision Trees",
+[1214, callan1991] Callan J.P. and Utgoff - "A Transformational Approach to Constructive Induction,"
+[1215, callan1991] Callan J. and Utgoff - A Transformational Approach to Constructive Induction.
+[1216, callan1991] Callan J. and Utgoff - A Transformational Approach to Constructive Induction.
+[1217, callan1991] Callan J. and Utgoff - A Transformational Approach to Constructive Induction.
+[1218, callan1991] J. Callan and P. Utgoff. - A transformational approach to constructive induction.
+[1219, callan1991] J. Callan and P. Utgoff. - A transformational approach to constructive induction.
+[1220, callan1991] J.P. Callan and P.E. Utgoff - A transformational approach to constructive induction.
+[1221, callan1991aaai] Callan and Utgoff P. E. - Constructive induction on domain knowl edge.
+[1222, callan1991aaai] Callan and Utgoff P. E. - Constructive induction on domain knowledge.
+[1223, callan1991aaai] J. P. Callan and P.E. Utgoff. - Constructive induction on domain knowledge.
+[1224, cardie1993] C. Cardie. - Using Decision Trees to Improve Case-Based Learning.
+[1225, cardie1993] C. Cardie. - Using Decision Trees to Improve Case-Based Learning.
+[1226, cardie1993] C. Cardie. - Using Decision Trees to Improve Case-Based Learning.
+[1227, cardie1993] Cardie - Using Decision Trees to Improve Case-Based Learning.
+[1228, cardie1993] Cardie - Using Decision Trees to Improve Case-Based Learning.
+[1229, cardie1993] Cardie - Using Decision Trees to Improve Case-Based Learning.
+[1230, cardie1993] Cardie - Using Decision Trees to Improve Case-Based Learning.
+[1231, cardie1993] Cardie - Using Decision Trees to Improve Case-Based Learning.
+[1232, cardie1993] Cardie - Using Decision Trees to Improve Case-Based Learning.
+[1233, cardie1993] Cardie - Using Decision Trees to Improve Case-Based Learning.
+[1234, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1235, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1236, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1237, caruana1993] Richard Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1238, caruana1993] Richard Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1239, caruana1993] Richard Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1240, caruana1993] Richard Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1241, caruana1993] Richard Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1242, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1243, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1244, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1245, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1246, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1247, caruana1993] R. Caruana. - Multitask learning: A knowledge-based of source of inductive bias.
+[1248, caruana1993] Caruana - Multitask Learning: A Knowledge-Based of Source of Inductive Bias.
+[1249, caruana1993] Caruana - Multitask Learning: A Knowledge-Based of Source of Inductive Bias.
+[1250, caruana1993] Caruana - Multitask Learning: A Knowledge-Based of Source of Inductive Bias.
+[1251, caruana1993] Caruana - Multitask Learning: A Knowledge-Based of Source of Inductive Bias.
+[1252, caruana1993] Caruana - Multitask Learning: A Knowledge-Based of Source of Inductive Bias.
+[1253, chapman1987] Chapman - Planning for conjunctive goals.
+[1254, chapman1987] Chapman - Planning for conjunctive goals.
+[1255, chapman1991] Chapman - 
+[1256, chapman1991] Chapman - 
+[1257, chapman1991] Chapman - 
+[1258, clark1993] P. Clark and S. Matwin. - Using Qualitative Models to Guide Inductive Learning.
+[1259, cleeremans1989] Cleeremans Servan-Schreiber and McClelland - Finite state automata and simple recurrent networks.
+[1260, clouse1992] Clouse J. A. and Utgoff P. E. - A Teaching Method for Reinforcement Learning.
+[1261, clouse1992] Clouse and Utgoff P. E. - A teaching method for reinforcement learning.
+[1262, clouse1992] Clouse and Utgoff P. E. - A teaching method for reinforcement learning.
+[1263, clouse1992] Clouse and Utgoff - A teaching method for reinforcement learning.
+[1264, clouse1992] Clouse and Utgoff - A teaching method for reinforcement learning.
+[1265, clouse1992] Clouse and Utgoff - A teaching method for reinforcement learning.
+[1266, clouse1992] Clouse and Utgoff - A teaching method for reinforcement learning.
+[1267, clouse1992] Clouse and P.E. Utgoff - A teaching method for reinforcement learning.
+[1268, clouse1992] J. Clouse and P. Utgoff. - A teaching method for reinforcement learning.
+[1269, clouse1992] J. A. Clouse and P. E. Utgoff. - A teaching method for reinforcement learning.
+[1270, clouse1992] J. A. Clouse and P. E. Utgoff. - A teaching method for reinforcement learning.
+[1271, clouse1992] Clouse and Utgoff - A teaching method for reinforcement learning.
+[1272, clouse1992] J. A. Clouse and P. E. Utgoff. - A teaching method for reinforcement learning.
+[1273, clouse1992] J.A. Clouse and P.E. Utgoff. - A teaching method for reinforcement learning.
+[1274, clouse1992] J.A. Clouse and P.E. Utgoff. - A teaching method for reinforcement learning.
+[1275, clouse1992] J. Clouse and P. Utgoff. - A teaching method for reinforcement learning.
+[1276, clouse1992] J. Clouse and P. Utgoff. - A teaching method for reinforcement learning.
+[1277, connel1987] M. E. Connel and P. E. Utgoff. - Learning to control a dynamic physical system.
+[1278, connell1987] Connell M. E. and Utgoff P. E. - Learning to control a dynamic physical system.
+[1279, connell1987] Connell M. E. and Utgoff P. E. - Learning to control a dynamic physical system.
+[1280, connell1987] Connell and Utgoff P. E. - Learning to control a dynamic physical system.
+[1281, connell1987] Connell and Utgoff P. E. - Learning to control a dynamic physical system.
+[1282, connell1987] Connell and Utgoff P. E. - Learning to control a dynamic physical system.
+[1283, connell1987] Connell and Utgoff P. E. - Learning to control a dynamic physical system.
+[1284, connell1987] M. Connell and P. Utgoff. - Learning to control a dynamic physical system,
+[1285, connell1987] M. Connell and P. Utgoff. - Learning to control a dynamic physical system,
+[1286, connell1987] M. Connell and P. Utgoff. - Learning to control a dynamic physical system,
+[1287, craven1993] Craven M. W. and Shavlik - Learning symbolic rules using artificial neural networks,
+[1288, craven1993] Craven M. W. and Shavlik - Learning symbolic rules using artificial neural networks,
+[1289, craven1993] Mark W. Craven and Jude W. Shavlik. - Learning symbolic rules using artificial neural networks.
+[1290, craven1993] Mark W. Craven and Jude W. Shavlik. - Learning symbolic rules using artificial neural networks.
+[1291, craven1993] Mark W. Craven and Jude W. Shavlik. - Learning symbolic rules using artificial neural networks.
+[1292, craven1993] M. W. Craven and J. W. Shavlik. - Learning symbolic rules using artificial neural networks.
+[1293, craven1993] M. W. Craven and J. W. Shavlik. - Learning symbolic rules using artificial neural networks.
+[1294, craven1993] M. W. Craven and J. W. Shavlik. - Learning symbolic rules using artificial neural networks.
+[1295, danyluk1993] Danyluk A.P. and F.J. Provost - Small Disjuncts in Action: Learning to Diagnose Errors in the Local Loop of the Telephone Network.
+[1296, danyluk1993] Danyluk A. and Provost - Small disjuncts in action: Learning to diagnose errors in the telephone network local loop,
+[1297, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1298, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1299, draper1994] Draper Brodley C. E. and Utgoff P. E. - `Goal-directed classification using linear machine decision trees',
+[1300, draper1994] Draper Brodley C. E. and Utgoff P. E. - `Goal-directed classification using linear machine decision trees',
+[1301, draper1994] Draper Brodley and Utgoff P. E. - Goal-directed classification using linear machine decision trees.
+[1302, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1303, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1304, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1305, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1306, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1307, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1308, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1309, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1310, draper1994] B. A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-directed classification using linear machine decision trees.
+[1311, draper1994] Bruce A. Draper Carla E. Brodley and Paul E. Utgoff. - Goal-Directed Classification using Linear Machine Decision Trees.
+[1312, draper1994] B. Draper C. E. Brodley and P. Utgoff. - Goal-directed Classification Using Linear Machine Decision Trees.
+[1313, draper1994] B. Draper C. E. Brodley and P. Utgoff. - Goal-directed Classification Using Linear Machine Decision Trees.
+[1314, fawcett1991] Fawcett T. E. and Utgoff P. E. - A Hybrid Method for Feature Generation.
+[1315, fawcett1991] Fawcett and Utgoff P. E. - A Hybrid Method for Feature Generation.
+[1316, fawcett1991] Fawcett and Utgoff P. E. - A hybrid method for feature generation.
+[1317, fawcett1991] Fawcett and Utgoff P. E. - A hybrid method for feature generation. Machine Learning:
+[1318, fawcett1991] Fawcett T.E. and Utgoff - "A Hybrid Method for Feature Generation,"
+[1319, fawcett1991] Fawcett T. and Utgoff - A hybrid method for feature generation.
+[1320, fawcett1991] Fawcett T. and Utgoff - A hybrid method for feature generation.
+[1321, fawcett1992] Fawcett T. E. and Utgoff P. E. - "Automatic Feature Generation for Problem Solving Systems",
+[1322, fawcett1992] Fawcett T. and Utgoff - Automatic feature Generation for Problem Solving Systems.
+[1323, fawcett1992] Fawcett T. and Utgoff - Automatic feature Generation for Problem Solving Systems.
+[1324, fawcett1992] Fawcett T. and Utgoff - Automatic feature Generation for Problem Solving Systems.
+[1325, fawcett1992] Tom E. Fawcett Paul E. Utgoff. - Automatic feature generation for problem solving systems.
+[1326, fawcett1992] T. E. Fawcett and P. E. Utgoff - Automatic feature generation for prob lem solving systems,
+[1327, fawcett1992] Tom Fawcett and Paul Utgoff - Automatic feature generation for Problem Solving Systems,
+[1328, fawcett1992] T.E. Fawcett and P.E. Utgoff - Automatic feature generation for problem solving systems.
+[1329, fawcett1992] Tom E. Fawcett and Paul E. Utgoff. - Automatic feature generation for problem solving systems.
+[1330, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1331, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1332, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1333, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1334, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1335, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1336, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1337, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1338, fayyad1993] Usama M. Fayyad Nicholas Weir and D. Djorgovski. SKICAT: - A machine learning system for automated cataloging of large scale sky surveys.
+[1339, huffman1993] Huffman and Laird - Learning procedures from interactive natural language instructions.
+[1340, huffman1993] Huffman and Laird - Learning procedures from interactive natural language instructions.
+[1341, huffman1993] S. B. Huffman and J. E. Laird - "Learning procedures from interactive natural language instructions," in Machine Learning:
+[1342, huffman1993] Scott B. Huffman and John E. Laird. - Learning procedures from inter-active natural language instructions.
+[1343, huffman1993] Scott B. Huffman and John E. Laird. - Learning procedures from inter-active natural language instructions.
+[1344, huffman1993] Scott B. Huffman and John E. Laird. - Learning procedures from inter-active natural language instructions.
+[1345, huffman1993] Scott B. Huffman and John E. Laird. - Learning procedures from interactive natural language instructions.
+[1346, johnson1982] David S. Johnson. - The NP-completeness Column : An Outgoing Guide.
+[1347, jordan1993] Jordan M. I. and Jacobs - Supervised learning and divide-and-conquer: A statistical approach,
+[1348, jordan1993] M. Jordan and R. Jacobs. - Supervised learning and divide-and-conquer: A statistical approach.
+[1349, kaelbling1993] L. P. Kaelbling. - Hierarchical learning in stochastic domains: Preliminary results.
+[1350, kaelbling1993] L. P. Kaelbling. - Hierarchical learning in stochastic domains: Preliminary results.
+[1351, kaelbling1993] L. P. Kaelbling. - Hierarchical learning in stochastic domains: Preliminary results.
+[1352, kaelbling1993] L. P. Kaelbling. - Hierarchical learning in stochastic domains: Preliminary results.
+[1353, mccallum1993] McCallum - Overcoming incomplete perception with utile distinction memory.
+[1354, mccallum1993] McCallum - Overcoming incomplete perception with utile distinction memory.
+[1355, mccallum1993] McCallum - Overcoming incomplete perception with utile distinction memory.
+[1356, mccallum1993] R. Andrew McCallum. - Overcoming incomplete perception with utile distinction memory.
+[1357, mccallum1993] R.A. McCallum. - Overcoming incomplete perception with utile distinction memory.
+[1358, mccallum1993] R.A. McCallum. - Overcoming incomplete perception with utile distinction memory.
+[1359, mehra1998] A. Mehra Z. Wang and K. Shin. - Self-parameterizing protocol stacks for guaranteed quality of service.
+[1360, mehra1998] A. Mehra Z. Wang and K. Shin - "Self-parameterizing protocol stacks for guaranteed quality of service,"
+[1361, mehra1998] A. Mehra Z. Wang and K. Shin - "Self-parameterizing protocol stacks for guaranteed quality of service,"
+[1362, mehra1998] A. Mehra Z. Wang and K. Shin - "Self-parameterizing protocol stacks for guaranteed quality of service,"
+[1363, minton1992] Minton Drummond Bresina and Phillips - Total order vs. partial order planning: Factors influencing performance.
+[1364, minton1992] Minton Drummond Bresina and Phillips - Total order vs. partial order planning: Factors influencing performance.
+[1365, mitchell1981] T.M. Mitchell P.E. Utgoff B. Nudel - Banerji Learning problem-solving heuristics through practice.
+[1366, mitchell1983] Mitchell P.E. Utgoff and R. Banerji. - Learning by Experimentation: Acquiring and Refining ProblemSolving Heuristics
+[1367, mitchell1983] Mitchell Utgoff P. E. and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1368, mitchell1983] Mitchell Utgoff P. E. and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1369, mitchell1983] Mitchell Utgoff and Banerji - (1983) Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1370, mitchell1983] Mitchell Utgoff P. and Banerji - Learning by experimentation: acquiring and refining problem-solving heuristics,
+[1371, mitchell1983] Mitchell Utgoff P. and Banerji - Learning by experimentation: acquiring and refining problem-solving heuristics,
+[1372, mitchell1983] Mitchell Utgoff P. and Banerji - Learning by experimentation: acquiring and refining problem-solving heuristics,
+[1373, mitchell1983] Mitchell Utgoff P. E. and Banerji - Learning by Experimentation: Acquiring and refining problem-solving heuristics.
+[1374, mitchell1983] Mitchell Utgoff P. E. and Banerji - Learning by Experimentation: Acquiring and refining problem-solving heuristics.
+[1375, mitchell1983] Mitchell Utgoff and Banerji - Learning by experimentation: Acquiring and refining problem solving heuristics.
+[1376, mitchell1983] Mitchell Utgoff and Banerji - Learning by experimentation: Acquiring and refining problem solving heuristics.
+[1377, mitchell1983] Mitchell Utgoff and Banerji - Learning by experimentation: Acquiring and refining problem solving heuristics.
+[1378, mitchell1983] Mitchell Utgoff and Banerji - Learning by experimentation: Acquiring and refining problem solving heuristics.
+[1379, mitchell1983] Mitchell Utgoff and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1380, mitchell1983] Mitchell Utgoff and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1381, mitchell1983] Mitchell Utgoff and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics. In Machine Learning:
+[1382, mitchell1983] Mitchell Utgoff and Banerji - Learning problem solving heuristics by experimentation.
+[1383, mitchell1983] Mitchell Utgoff and Banerji - Learning problem solving heuristics by experimentation.
+[1384, mitchell1983] Mitchell Utgoff and Banerji - Learning problem solving heuristics by experimentation.
+[1385, mitchell1983] Mitchell Utgoff and Banerji - Learning problem solving heuristics by experimentation.
+[1386, mitchell1983] Mitchell Utgoff and Banerji - "Learning by Experimentation: Acquiring and Refining Problem-Solving Heuristics." In Machine Learning:
+[1387, mitchell1983] Mitchell Utgoff and Banerji - Learning by Experimentation: Acquiring and Refining Problem-Solving Heuristics, Machine Learning: An Artificial Intelligence Approach,
+[1388, mitchell1983] Mitchell Utgoff and Banerji - Learning by Experimentation: Acquiring and Refining Problem-Solving Heuristics, Machine Learning: An Artificial Intelligence Approach,
+[1389, mitchell1983] Mitchell Utgoff and Banerji - Learning by Experimentation: Acquiring and Refining Problem-Solving Heuristics, Machine Learning: An Artificial Intelligence Approach,
+[1390, mitchell1983] Mitchell T.M.; Utgoff P.E.; and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1391, mitchell1983] Mitchell T.M.; Utgoff P.E.; and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1392, mitchell1983] Mitchell T.M. Utgoff P.E. and Banerji - Learning by Experimentation: Acquiring and Refining Problem Solving Heuristics¡±In Machine Learning¡±
+[1393, mitchell1983] T. Mitchell Utgoff P. and Banerji - "Learning by Experimentation: Acquiring and Refining ProblemSolving Heuristics,"
+[1394, mitchell1983] T. Mitchell Utgoff P. and Banerji - "Learning by Experimentation: Acquiring and Refining ProblemSolving Heuristics,"
+[1395, mitchell1983] T. M. Mitchell P. E. Utgoff and R. B. Banerji. - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1396, mitchell1983] Tom M. Mitchell Paul E. Utgoff and Ranan Banerji. - Learning problem solving heuristics by experimentation.
+[1397, mitchell1983] Tom M. Mitchell Paul E. Utgoff and Ranan Banerji. - Learning problem solving heuristics by experimentation.
+[1398, mitchell1983] Tom Mitchell Paul Utgoff and Ranan Banerji. - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1399, mitchell1983] Mitchell T.; Utgoff P.; and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1400, mitchell1983] Mitchell Utgoff P. E. and Banerji - Learning by Experimentation: Acquiring and Refining ProblemSolving Heuristics,
+[1401, mitchell1983] T.M. Mitchell P.E. Utgoff and R.B. Banerji. - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1402, mitchell1983] T. Mitchell T. Utgoff and R. Banerji. - Learning problem solving heuristics by experimentation.
+[1403, mitchell1983] T. Mitchell T. Utgoff and R. Banerji. - Learning problem solving heuristics by experimentation.
+[1404, mitchell1983] T. M. Mitchell P. E. Utgoff and R. B. Banerji. - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1405, mitchell1983] T. M. Mitchell P. E. Utgoff and R. B. Banerji. - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1406, mitchell1983] T.M. Mitchell P.E. Utgoff and R. Banerji. - Learning by experimentation: Acquiring and refining problem solving heuristics.
+[1407, mitchell1983] T. M. Mitchell P. Utgoff and R. Banerji. - Learning by experimentation: acquiring and refining problem-solving heuristics.
+[1408, mitchell1983] Mitchell Utgoff P. E. and Banerji - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1409, mitchell1983] T. M. Mitchell P. E. Utgoff and R. B. Banerji. - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1410, mitchell1983] Mitchell Utgoff P. E. and Banerji - "Learning by Experimentation: Acquiring and Refining Problem-Solving Heuristics,"
+[1411, mitchell1983] Tom M. Mitchell Paul E. Utgoff and Ranan Banerji. - "Learning by Experimentation: Acquiring and Refining Problem-Solving Heuristics
+[1412, mitchell1983] T. M. Mitchell P. E. Utgoff and R. Banerji. - Learning by experimentation : Acquiring and refining problem-solving heuristics.
+[1413, mitchell1983ijcai] Mitchell - Learning and problem solving,
+[1414, mitchell1993] Tom M. Mitchell Paul E. Utgoff and Ranan Banerji. - Learning by experimentation: acquiring and refining problem-solving heuristics.
+[1415, mitchell1993] Tom M. Mitchaell and Paul E. Utgoff. - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1416, mitchell1993] Tom M. Mitchaell and Paul E. Utgoff. - Learning by experimentation: Acquiring and refining problem-solving heuristics.
+[1417, mitchell1993ebl] Mitchell T. and Thrun - "Explanation-Based Learning: A Comparison of Symbolic and Neural Network Approaches.",
+[1418, mitchell1993ebl] Tom M. Mitchell and Sebastian Thrun. - Explanation based learning: A comparison of symbolic and neural network approaches.
+[1419, mitchell1993ebl] Tom M. Mitchell and Sebastian Thrun. - Explanation based learning: A comparison of symbolic and neural network approaches.
+[1420, mitchell1993ebl] Tom M. Mitchell and Sebastian Thrun. - Explanation based learning: A comparison of symbolic and neural network approaches.
+[1421, mitchell1993ebl] Tom M. Mitchell and Sebastian Thrun. - Explanation based learning: A comparison of symbolic and neural network approaches.
+[1422, mitchell1993ebl] Tom M. Mitchell and Sebastian Thrun. - Explanation based learning: A comparison of symbolic and neural network approaches.
+[1423, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1424, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1425, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1426, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1427, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1428, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1429, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1430, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1431, mladenic] Dunja Mladenic. - Combinatorial optimization in inductive concept learning.
+[1432, mladenic1993] Mladenic - Combinatorial optimization in inductive concept learning.
+[1433, moss1997] Moss Cavazos Stefanovic Utgoff Precup Scheeff and Brodley - Learning Policies for Local Instruction Scheduling.
+[1434, musick1992] Musick Catlett and Russell - Decision theoretic subsampling for induction on large databases.
+[1435, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1436, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1437, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1438, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1439, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1440, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1441, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1442, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1443, musick1992] R. Musick Jason Catlett and S. Russell. - Decision theoretic subsampling for induction on large databases.
+[1444, quinlan1993]  - Quinlan (1993) "Combining instance-based and model-based learning",
+[1445, quinlan1993] Quinlan - Combining instance-based and model-based learning.
+[1446, quinlan1993] Quinlan J. R. - Combining instance-based and model-based learning.
+[1447, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1448, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1449, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1450, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1451, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1452, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1453, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1454, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1455, quinlan1993] John Ross Quinlan. - Combining instance-based and model-based learning.
+[1456, quinlan1993] Quinlan - Combining instance-based and model-based learn-ing.
+[1457, quinlan1993] Quinlan - Combining instance-based and model-based learning.
+[1458, ragavan1993] Ragavan and Rendell - Lookahead feature construction for learning hard concepts.
+[1459, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1460, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1461, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1462, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1463, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1464, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1465, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1466, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1467, ragavan1993] Harish Ragavan and Larry Rendell. - Lookahead feature construction for learning hard concepts.
+[1468, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1469, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1470, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1471, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1472, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1473, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1474, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1475, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1476, rymon1993] Ron Rymon. - An SE-tree based characterization of the induction problem.
+[1477, safford1993] David R. Safford Douglas L. Schales and David K. Hess. - The TAMU Security Package: An Outgoing Response to Internet Intruders in an Academic Environment.
+[1478, schmill1998] Schmill M. D.; Rosenstein M. T.; Cohen P. R.; and Utgoff - Learning what is relevant to the effects of actions for a mobile robot.
+[1479, schwartz1993] Schwartz - A reinforcement learning method for maximizing undiscounted rewards,
+[1480, schwartz1993] Schwartz - A reinforcement learning method for maximizing undiscounted rewards.
+[1481, stone1977] Stone - : Consistent nonparametric regression.
+[1482, torgo1990] Torgo L. - "Incremental Rule Learning Using Entropy Based Search"
+[1483, torgo1995] Torgo - : Data Fitting with Rule-based Regression.
+[1484, utgoff1982aaai] Utgoff P. E. and Mitchell - Acquisition of appropriate bias for inductive concept learning.
+[1485, utgoff1982aaai] Utgoff P. E. and Mitchell - Acquisition of appropriate bias for inductive concept learning.
+[1486, utgoff1982aaai] P. E. Utgoff and T. M. Mitchell. - Acquisition of Appropriate Bias for Inductive Concept Learning.
+[1487, utgoff1982aaai] Paul Utgoff and Tom M. Mitchell. - Acquisition of appropriate bias for inductive concept learning.
+[1488, utgoff1982ml] Utgoff P. E. Mitchell Tom M. and Banerji R. B. - Learning by experimentation: Acquiring and refining problem- solving heuristics.
+[1489, utgoff1983] P.E. Utgoff. - Adjusting bias in concept learning.
+[1490, utgoff1984phd] Utgoff P. E. - Shift of bias for inductive concept learning.
+[1491, utgoff1984phd] Paul Utgoff. - Shift of bias for inductive concept learning.
+[1492, utgoff1984phd] P. E. Utgoff. - Shift of Bias for Inductive Concept Learning.
+[1493, utgoff1984phd] P. E. Utgoff. - Shift of Bias for Inductive Concept Learning.
+[1494, utgoff1984phd] P. Utgoff. - Shift of Bias for Inductive Concept Learning.
+[1495, utgoff1984phd] P. Utgoff. - Shift of Bias for Inductive Concept Learning.
+[1496, utgoff1986book] Utgoff P. E. - Machine Learning of Inductive Bias.
+[1497, utgoff1986book] Utgoff P. E. - 
+[1498, utgoff1986book] Utgoff P. E. - 
+[1499, utgoff1986book] P. Utgoff. - 
+[1500, utgoff1986book] P. Utgoff. - 
+[1501, utgoff1986book] Paul E. Utgoff. - 
+[1502, utgoff1986book] Paul E. Utgoff. - 
+[1503, utgoff1986book] P. E. Utgoff - 
+[1504, utgoff1986book] P. E. Utgoff - 
+[1505, utgoff1986book] P. E. Utgoff. - 
+[1506, utgoff1986book] P. E. Utgoff. - 
+[1507, utgoff1986book] P. E. Utgoff. - 
+[1508, utgoff1986book] Utgoff - 
+[1509, utgoff1986book] Utgoff P. E. - 
+[1510, utgoff1986book] Utgoff P. E. - 
+[1511, utgoff1986book] P. Utgoff. - 
+[1512, utgoff1986book] Utgoff - 
+[1513, utgoff1986book] Utgoff P. E. - 
+[1514, utgoff1986book] Utgoff P. E. - 
+[1515, utgoff1986book] Utgoff P. E. - 
+[1516, utgoff1986book] Utgoff - 
+[1517, utgoff1986book] P.E. Utgoff. - 
+[1518, utgoff1986book] Paul E. Utgoff - 
+[1519, utgoff1986book] Paul E. Utgoff - 
+[1520, utgoff1986book] Utgoff P. E. - 
+[1521, utgoff1986mlii] P.E. Utgoff. - Shift of bias for inductive concept-learning.
+[1522, utgoff1986mlii] Utgoff - "Shift of Bias for Inductive Learning,",
+[1523, utgoff1986mlii] Utgoff - "Shift of Bias for Inductive Learning,",
+[1524, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1525, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1526, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1527, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1528, utgoff1986mlii] P. Utgoff - "Shift of Bias for Inductive Learning,",
+[1529, utgoff1986mlii] P. Utgoff - "Shift of Bias for Inductive Learning,",
+[1530, utgoff1986mlii] Utgoff - "Shift of Bias For Inductive Concept Learning",
+[1531, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1532, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1533, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1534, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1535, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1536, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1537, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1538, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1539, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1540, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1541, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1542, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1543, utgoff1986mlii] Utgoff P. E. - Shift of Bias for Inductive Concept Learning.
+[1544, utgoff1986mlii] Utgoff P. E. - Shift of bias for inductive concept learning.
+[1545, utgoff1986mlii] Utgoff P. E. - Shift of bias for inductive concept learning.
+[1546, utgoff1986mlii] Utgoff P. E. - Shift of bias for inductive concept learning.
+[1547, utgoff1986mlii] Utgoff P. E. - Shift of bias for inductive concept learning.
+[1548, utgoff1986mlii] Utgoff P. E. - Shift of bias for inductive concept learning.
+[1549, utgoff1986mlii] Utgoff P. E. - Shift of bias for inductive concept learning.
+[1550, utgoff1986mlii] Utgoff P. E. - Shift of bias for inductive concept learning.
+[1551, utgoff1986mlii] Utgoff P. E. - Shift of Bias for Inductive Concept Learning.
+[1552, utgoff1986mlii] Utgoff P. E. - Shift of Bias for Inductive Concept Learning.
+[1553, utgoff1986mlii] Utgoff P. E. - Shift of Bias for Inductive Concept Learning.
+[1554, utgoff1986mlii] Utgoff - Shift of Bias for Inductive Concept Learning,
+[1555, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1556, utgoff1986mlii] Utgoff - Shift of Bias for Inductive Learning,
+[1557, utgoff1986mlii] Utgoff Paul E. - Shift of Bias for Inductive Concept Learning.
+[1558, utgoff1986mlii] P.E. Utgoff. - Shift of bias for inductive concept learning.
+[1559, utgoff1986mlii] P.E. Utgoff. - Shift of bias for inductive concept learning.
+[1560, utgoff1986mlii] P.E. Utgoff. - Shift of bias for inductive concept learning.
+[1561, utgoff1986mlii] Utgoff P. E. - Shift of bias of induc tive concept learning.
+[1562, utgoff1986mlii] Utgoff P. E. - Shift of bias of inductive concept learning.
+[1563, utgoff1986mlii] Utgoff P. E. - Shift of bias of inductive concept learning.
+[1564, utgoff1986mlii] Utgoff P. E. - Shift of bias of inductive concept learning.
+[1565, utgoff1986mlii] Utgoff P. E. - Shift of bias of inductive concept learning.
+[1566, utgoff1986mlii] P. E. Utgoff. - Shift of bias for Inductive Concept Learning.
+[1567, utgoff1986mlii] P. Utgoff - Shift of bias for inductive concept learning,
+[1568, utgoff1986mlii] P. Utgoff - Shift of bias for inductive concept learning,.
+[1569, utgoff1986mlii] P. Utgoff. - Shift of bias for inductive concept learning.
+[1570, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1571, utgoff1986mlii] P. E. Utgoff. - Shift of bias for inductive concept learning.
+[1572, utgoff1986mlii] P. Utgoff. - Shift of bias for inductive concept learning.
+[1573, utgoff1986mlii] P. Utgoff. - Shift of bias for inductive concept learning.
+[1574, utgoff1986mlii] P. Utgoff. - Shift of bias for inductive concept learning.
+[1575, utgoff1986mlii] P. Utgoff. - Shift of bias for inductive concept learning.
+[1576, utgoff1986mlii] P. Utgoff. - Shift of bias for inductive concept learning.
+[1577, utgoff1986mlii] Utgoff - Shift of bias for inductive concept learning.
+[1578, utgoff1986mlii] P E Utgoff. - Shift of bias for inductive concept learning.
+[1579, utgoff1986mlii] Utgoff Paul E. - Shift of bias for inductive concept learning.
+[1580, utgoff1986mlii] Utgoff Paul E. - Shift of bias for inductive concept learning.
+[1581, utgoff1986mlii] Utgoff Paul E. - Shift of bias for inductive concept learning.
+[1582, utgoff1986mlii] P. E. - Utgoff "Shift of Bias for Inductive Concept Learning"
+[1583, utgoff1986mlii] P. E. - Utgoff "Shift of Bias for Inductive Concept Learning"
+[1584, utgoff1986mlii] Utgoff P. E. - Shift of Bias for Inductive Concept Learning.
+[1585, utgoff1986mlii] P. Utgoff. - Shift Of Bias For Inductive Concept Learning.
+[1586, utgoff1986mlii] P. Utgoff. - Shift Of Bias For Inductive Concept Learning.
+[1587, utgoff1986mlii] P. Utgoff. - Shift Of Bias For Inductive Concept Learning.
+[1588, utgoff1987] Utgoff P. E. and Saxena - Learning a preference predicate.
+[1589, utgoff1987] Utgoff and Saxena - Learning a preference predicate.
+[1590, utgoff1987] P. Utgoff and S. Saxena - "Learning a Preference Predicate,"
+[1591, utgoff1987] Utgoff P. and Saxena - Learning a preference predicate.
+[1592, utgoff1988aaai] Utgoff and P.S. Heitman. - Learning and Generalizing Move Selection Preferences.
+[1593, utgoff1988iid] Utgoff P.E. - "ID5: An Incremental ID3",
+[1594, utgoff1988iid] Utgoff P.E. - "ID5: An Incremental ID3",
+[1595, utgoff1988iid] Utgoff - ID5R: An incremental ID3.
+[1596, utgoff1988iid] Utgoff - ID5R: An incremental ID3.
+[1597, utgoff1988iid] Utgoff - ID5: An Incremental ID3.
+[1598, utgoff1988iid] Utgoff - ID5: An Incremental ID3.
+[1599, utgoff1988iid] Utgoff - ID5: An Incremental ID3.
+[1600, utgoff1988iid] Utgoff - ID5: An Incremental ID3.
+[1601, utgoff1988iid] Utgoff P. E. - An incremental ID3.
+[1602, utgoff1988iid] Utgoff P. E. - ID5: An incremental ID3.
+[1603, utgoff1988iid] Utgoff P. E. - ID5: An incremental ID3.
+[1604, utgoff1988iid] P. Utgoff. ID5: - An Incremental ID3.
+[1605, utgoff1988iid] P. Utgoff. ID5: - An incremental ID3.
+[1606, utgoff1988iid] P. Utgoff. ID5: - An incremental ID3.
+[1607, utgoff1988iid] P. Utgoff. ID5: - An incremental ID3.
+[1608, utgoff1988iid] Utgoff P. E. - Id5: an incremental id3.
+[1609, utgoff1988iid] P. E. Utgoff. Id5: - an incremental id3.
+[1610, utgoff1988iid] Paul E. Utgoff. ID5: - An incremental ID3.
+[1611, utgoff1988iid] P. E. Utgoff. - An incremental ID3.
+[1612, utgoff1988iid] Utgoff - An Incremental ID3.
+[1613, utgoff1988iid] P.E. Utgoff - an incremental ID3.
+[1614, utgoff1988pt] Utgoff - Perceptron trees: A case study in hybrid concept representations.
+[1615, utgoff1988pt] Utgoff - Perceptron trees: A case study in hybrid concept representations.
+[1616, utgoff1988pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1617, utgoff1988pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1618, utgoff1988pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1619, utgoff1988pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1620, utgoff1988pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1621, utgoff1988pt] Utgoff P. E. - Perceptron Trees: A Case Study in Hybrid Concept Representation.
+[1622, utgoff1988pt] Utgoff P. E. - Perceptron trees: a case study in hybrid concept representation.
+[1623, utgoff1988pt] Paul. E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1624, utgoff1988pt] Utgoff P. E. - Perceptron Trees: A Case Study in Hybrid Concept Representation.
+[1625, utgoff1988pt] Paul E. Utgoff. - Perceptron trees: a case study in hybrid concept representation.
+[1626, utgoff1988pt] Paul E. Utgoff. - Perceptron trees: a case study in hybrid concept representation.
+[1627, utgoff1989] P.E. Utgoff. - Incremental induction of decision trees.
+[1628, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1629, utgoff1989] P. Utgoff - . Incremental induction of decision trees.
+[1630, utgoff1989] Utgoff P. E. - Incremental Induction of Decision Trees,
+[1631, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1632, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1633, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1634, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1635, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1636, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1637, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1638, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1639, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1640, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1641, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1642, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1643, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1644, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1645, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1646, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1647, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1648, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1649, utgoff1989] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representa tions.
+[1650, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1651, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1652, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1653, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1654, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1655, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1656, utgoff1989] Utgoff P. E. - Incremental induction of decision trees.
+[1657, utgoff1989] Utgoff - Incremental Induction of Decision Trees.
+[1658, utgoff1989] Utgoff - (1989) Incremental induction of decision trees.
+[1659, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1660, utgoff1989] Utgoff - Incremental Decision Tress. Machine Learning,
+[1661, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1662, utgoff1989] P. E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1663, utgoff1989] P. E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1664, utgoff1989] P. Utgoff. - Incremental induction of decision trees.
+[1665, utgoff1989] P. Utgoff. - Incremental induction of decision trees.
+[1666, utgoff1989] P.E. Utgoff. - Incremental induction of decision trees.
+[1667, utgoff1989] P.E. Utgoff. - Incremental induction of decision trees.
+[1668, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1669, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1670, utgoff1989] Utgoff - Incremental induction of decision trees.
+[1671, utgoff1989] P. E. Utgoff. - Incremental induction of decision trees.
+[1672, utgoff1989] P.E. Utgoff. - Incremental induction of decision trees.
+[1673, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1674, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1675, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1676, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1677, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1678, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1679, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1680, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1681, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1682, utgoff1989] Paul E. Utgoff. - Incremental induction of decision trees.
+[1683, utgoff1989] P. E. Utgoff. - Incremental induction of decision trees.
+[1684, utgoff1989] P. E. Utgoff. - Incremental induction of decision trees.
+[1685, utgoff1989] P.E. Utgoff. - Incremental induction of decision trees.
+[1686, utgoff1989] Utgoff P.E.: - Incremental Learning of Decision trees.,
+[1687, utgoff1989] P.E. Utgoff - Incremental induction of decision trees.
+[1688, utgoff1989mlw] P. E. Utgoff. - Improved training via incremental learning.
+[1689, utgoff1989mlw] P. E. Utgoff. - Improved training via incremental learning.
+[1690, utgoff1989mlw] P. E. Utgoff - Improved Training via Incremental Learning,
+[1691, utgoff1989mlw] Utgoff P. E. - Improved training via incremental learning.
+[1692, utgoff1989mlw] Utgoff P. E. - Improved training via incremental learning.
+[1693, utgoff1989mlw] Utgoff P. E. - Improved training via incremental learning.
+[1694, utgoff1989mlw] Utgoff P. E. - Improved training via incremental learning.
+[1695, utgoff1989mlw] Utgoff Paul E. - Improved Training via Incremental Learning,
+[1696, utgoff1989mlw] Utgoff Paul E. - Improved Training via Incremental Learning,
+[1697, utgoff1989mlw] Paul E. Utgoff. - Improved training via incremental learning.
+[1698, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representa-tions.
+[1699, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1700, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1701, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1702, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1703, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1704, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1705, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1706, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1707, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1708, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1709, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1710, utgoff1989pt] Utgoff P. E. - Perceptron trees: A case study in hybrid concept representations.
+[1711, utgoff1989pt] Utgoff - Perceptron Trees: A case study in hybrid concept representations,
+[1712, utgoff1989pt] Utgoff - Perceptron Trees: A case study in hybrid concept representations,
+[1713, utgoff1989pt] Utgoff - Perceptron Trees: A case study in Hybrid Concept Representations.
+[1714, utgoff1989pt] Utgoff - Perceptron Trees: A case study in Hybrid Concept Representations.
+[1715, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1716, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1717, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1718, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1719, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1720, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1721, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1722, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1723, utgoff1989pt] Paul E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1724, utgoff1989pt] P. E. Utgoff. - Perceptron trees: A case study in hybrid concept representations.
+[1725, utgoff1989pt] Utgoff - Perceptron trees: A case study in hybrid concept representation.
+[1726, utgoff1989pt] Utgoff - Perceptron trees: A case study in hybrid concept representation.
+[1727, utgoff1989rp] Utgoff P. E. Saxena Callan and Fawcett - Representation problems in machine learning: A proposal,
+[1728, utgoff1990] Utgoff P. E. and Brodley - An incre-mental method for finding multivariate splits for decision trees.
+[1729, utgoff1990] Utgoff P. E. and Brodley C. E. - An incremental method for finding multivariate splits for decision trees.
+[1730, utgoff1990] Utgoff P. E. and Brodley C. E. - An incremental method for finding multivariate splits for decision trees.
+[1731, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding mul-tivariate splits for decision trees.
+[1732, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1733, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1734, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1735, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1736, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1737, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1738, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1739, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1740, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1741, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1742, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1743, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1744, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1745, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1746, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1747, utgoff1990] Utgoff P. E. and Brodley - An incremental method for finding multivariate splits for decision trees.
+[1748, utgoff1990] P. Utgoff and C. Brodley. - An incremental method for find multivariate splits for decision trees.
+[1749, utgoff1990] P. Utgoff and C. Brodley. - An incremental method for find multivariate splits for decision trees.
+[1750, utgoff1990] P.E. Utgoff and C.E. Brodley. - An incremental method for finding mul--tivariate splits for decision trees.
+[1751, utgoff1990] P. E. Utgoff and C. E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1752, utgoff1990] P. E. Utgoff and C. E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1753, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1754, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1755, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1756, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1757, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1758, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1759, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1760, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1761, utgoff1990] Paul E. Utgoff and Carla E. Brodley. - An incremental method for finding multivariate splits for decision trees.
+[1762, utgoff1991aaai] Utgoff P. and Clouse - Two kinds of training information for evaluation function learning.
+[1763, utgoff1991aaai] Utgoff P. and Clouse - Two kinds of training information for evaluation function learning.
+[1764, utgoff1991aaai] Utgoff P. and Clouse - Two kinds of training information for evaluation function learning.
+[1765, utgoff1991aaai] Utgoff P. and Clouse - Two kinds of training information for evaluation function learning.
+[1766, utgoff1991aaai] Utgoff P. E. and Clouse - Two kinds of training information for evaluation function learning.
+[1767, utgoff1991aaai] Utgoff P. E. and Clouse - Two kinds of training information for evaluation function learning.
+[1768, utgoff1991aaai] Utgoff P. E. and Clouse - Two kinds of training information for evaluation function learning.
+[1769, utgoff1991aaai] Utgoff P. E. and Clouse - Two kinds of training information for evaluation function learning.
+[1770, utgoff1991aaai] Utgoff P. E. and Clouse - Two kinds of training information for evaluation function learning.
+[1771, utgoff1991aaai] Utgoff and Clouse - Two kinds of training information for evaluation function learning.
+[1772, utgoff1991aaai] Utgoff and Clouse. - Two kinds of training information for evaluation function learning.
+[1773, utgoff1991aaai] Utgoff P.E. and Brodley - Linear machine decision trees.
+[1774, utgoff1991aaai] Utgoff P.E. and Brodley - Linear machine decision trees.
+[1775, utgoff1991aaai] P. E. Utgoff and J. A. Clouse. - Two kinds of training information for evaluation function learning.
+[1776, utgoff1991aaai] P. Utgoff and J. Clouse. - Two kinds of training information for evaluation function learning.
+[1777, utgoff1991aaai] P. Utgoff and J. Clouse. - Two kinds of training information for evaluation function learning.
+[1778, utgoff1991aaai] P.E. Utgoff and J.A. Clouse. - Two kinds of training information for evaluation function learning.
+[1779, utgoff1991aaai] P.E. Utgoff and J.A. Clouse. - Two kinds of training information for evaluation function learning.
+[1780, utgoff1991aaai] P. Utgoff and J. Clouse. - Two kinds of training information for evaluation function learning.
+[1781, utgoff1991aaai] P. E. Utgoff and J. A. Clouse. - Two kinds of training information for evaluation function learning.
+[1782, utgoff1991aaai] P. E. Utgoff and J. A. Clouse. - Two kinds of training information for evaluation function learning.
+[1783, utgoff1991aaai] P. E. Utgoff and J. A. Clouse. - Two kinds of training information for evaluation function learning.
+[1784, utgoff1991aaai] P. E. Utgoff and J. A. Clouse. - Two kinds of training information for evaluation function learning.
+[1785, utgoff1991aaai] Utgoff - and Clouse (1991). Two kinds of training information for evaluation function learning.
+[1786, utgoff1991lmdt] Utgoff P. E. and Brodley C. E. - Linear machine decision trees
+[1787, utgoff1991lmdt] Utgoff P. E. and Brodley C. E. - Linear machine decision trees
+[1788, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear ma-chine decision trees.
+[1789, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees,
+[1790, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees,
+[1791, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees.
+[1792, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees.
+[1793, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees.
+[1794, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees.
+[1795, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees.
+[1796, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees.
+[1797, utgoff1991lmdt] Utgoff P. E. and Brodley - Linear machine decision trees.
+[1798, utgoff1991lmdt] Utgoff P. E. Brodley - Linear Machine Decision Trees,
+[1799, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1800, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1801, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1802, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1803, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1804, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1805, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1806, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1807, utgoff1991lmdt] Paul E. Utgoff and Carla E. Brodley. - Linear machine decision trees.
+[1808, utgoff1994] P. Utgoff. - An Improved Algorithm for Incremental Induction of Decision Trees.
+[1809, utgoff1994] P. Utgoff. - An Improved Algorithm for Incremental Induction of Decision Trees.
+[1810, utgoff1994] P. Utgoff. - An Improved Algorithm for Incremental Induction of Decision Trees.
+[1811, utgoff1994] Utgoff - An improved algorithm for incremental induction of decision trees,
+[1812, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees,
+[1813, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees,
+[1814, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees,
+[1815, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees,
+[1816, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees,
+[1817, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees,
+[1818, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees
+[1819, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees.
+[1820, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees.
+[1821, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees.
+[1822, utgoff1994] Utgoff P. E. - An improved algorithm for incremental induction of decision trees.
+[1823, utgoff1994] Utgoff - An improved algorithm for incremental induction of decision trees.
+[1824, utgoff1994] Utgoff - An Improved Algorithm for Incremental Induction of Decision Trees.
+[1825, utgoff1994] Utgoff - An Improved Algorithm for Incremental Induction of Decision Trees.
+[1826, utgoff1994] Utgoff - An Improved Algorithm for Incremental Induction of Decision Trees.
+[1827, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1828, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1829, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1830, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1831, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1832, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1833, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1834, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1835, utgoff1994] Paul E. Utgoff. - An improved algorithm for incremental induction of decision trees.
+[1836, utgoff1994] P.E. Utgoff - An improved algorithm for incremental induction of decision trees.
+[1837, utgoff1995] Utgoff - Decision tree induction based on efficient tree restructuring.
+[1838, utgoff1995] Utgoff - Decision tree induction based on efficient tree restructuring.
+[1839, utgoff1995] Utgoff P. E. - Decision tree induction based on efficient tree restructuring,
+[1840, utgoff1995] Utgoff P. E. - Decision tree induction based on efficient tree restructuring,
+[1841, utgoff1995] Utgoff P. E. - Decision tree induction based on efficient tree restructuring,
+[1842, utgoff1995] Utgoff P. E. - Decision tree induction based on efficient tree restructuring,
+[1843, utgoff1995] Utgoff P. E. - Decision tree induction based on efficient tree restructuring
+[1844, utgoff1995] Utgoff P. E. - Decision tree induction based on efficient tree restructuring
+[1845, utgoff1995] Paul E. Utgoff. - Decision tree induction based on efficient tree restructuring.
+[1846, utgoff1995] Paul E. Utgoff. - Decision tree induction based on efficient tree restructuring.
+[1847, utgoff1996] Utgoff - Decision Tree Induction Based on Efficient Tree Restructuring,
+[1848, utgoff1996] Utgoff - Decision Tree Induction Based on Efficient Tree Restructuring,
+[1849, utgoff1996ks] Utgoff P. E. and Clouse - A Kolmogorov-Smirnoff metric for decision tree induction,
+[1850, utgoff1996ks] Utgoff P.E. and Clouse J.A. - A Kolmogorov-Smirnoff Metric for Decision Tree Induction,
+[1851, utgoff1996ks] Utgoff P.E. and Clouse J.A. - A Kolmogorov-Smirnoff Metric for Decision Tree Induction,
+[1852, utgoff1996mlii] P.E. Utgoff - Shift of bias of inductive concept learning. In R.S.
+[1853, utgoff1996va] Paul E. Utgoff. - Feature function learning for value approximation.
+[1854, utgoff1997] Utgoff P. E. Berkman and Clouse - Decision tree induction based on efficient tree restructuring.
+[1855, utgoff1997] Utgoff P. E.; Berkman N. C.; and Clouse - Decision tree induction based on efficient tree restructuring.
+[1856, utgoff1997] Paul E. Utgoff Neil C. Berkman and Jeffery A. Clouse. - Decision tree induction based on efficient tree restructuring. Machine Learning,
+[1857, utgoff1997] Paul E. Utgoff Neil C. Berkman and Jeffery A. Clouse. - Decision tree induction based on efficient tree restructuring. Machine Learning,
+[1858, utgoff1997] P. E. Utgoff N. C. Berkman and J. A. Clouse. - Decision tree induction based on efficient tree restructuring.
+[1859, utgoff1997] Utgoff P. E. Berkman and Clouse - Decision tree induction based on efficient tree restructuring.
+[1860, utgoff1997] Utgoff P. E. Berkman and Clouse - (in press). Decision tree induction based on efficient tree restructuring.
+[1861, utgoff1997fa] Utgoff P. E. and Precup - Constructive function approximation,
+[1862, utgoff1997fa] Utgoff P. E. and Precup - Constructive function approximation,
+[1863, utgoff1997fa] Utgoff P. E. and Precup - Constructive function approximation,
+[1864, utgoff1997fa] Utgoff P. E. and Precup - Constructive function approximation,
+[1865, utgoff1997fa] P.E. Utgoff. - Constructive Function Approximation,
+[1866, utgoff1998] Utgoff P. E. and Precup - Constructive function approximation. Feature extraction, construction, and selection: A data-mining perspective.
+[1867, utgoff1998] Utgoff P. E. and Precup - Constructive function approximation. Feature extraction, construction, and selection: A data-mining perspective.
+[1868, yee1990] Yee Saxena Utgoff P. E. and Barto - Explaining Temporal Differences to Create Useful Concepts for Evaluating States.
+[1869, yee1990] Yee Saxena Utgoff P. E. and Barto - Explaining Temporal Differences to Create Useful Concepts for Evaluating States.
+[1870, yee1990] Yee Saxena Utgoff P. E. and Barto - Explaining temporal differences to create useful concepts for evaluating states.
+[1871, yee1990] R.C. Yee S. Saxena P.E. Utgoff and A.G. Barto. - Explaining temporal differences to create useful concepts for evaluating states.
+[1872, yee1990] R.C. Yee S. Saxena P.E. Utgoff and A.G. Barto. - Explaining temporal differences to create useful concepts for evaluating states.
+[1873, yee1990] Richard C. Yee Sharad Saxena Paul E. Utgoff and Andrew C. Barto. - Explaining temporal-differences to create useful concepts for evaluating states.
+[1874, yee1990] Richard C. Yee Sharad Saxena Paul E. Utgoff and Andrew C. Barto. - Explaining temporal-differences to create useful concepts for evaluating states.
+[1875, zheng1993] Q. Zheng - Real-time Fault-tolerant Communication in Computer Networks,
+[1876, zheng1993] Q. Zheng - Real-time Fault-tolerant Communication in Computer Networks,
+[1877, zheng1993] Q. Zheng - Real-time Fault-tolerant Communication in Computer Networks,
+[1878, zheng1993] Q. Zheng - Real-time Fault-tolerant Communication in Computer Networks,
+
+#(draper1994) = 17
+#(fahlman1985a) = 1
+#(callan1991aaai) = 3
+#(porter1986) = 11
+#(cramer1985a) = 1
+#(brown1992a) = 3
+#(langley1986) = 1
+#(utgoff1986mlii) = 67
+#(jordan1993) = 2
+#(stone1977) = 1
+#(torgo1990) = 1
+#(cheng1996) = 1
+#(conery19xx) = 1
+#(fahlman1974a) = 13
+#(steele1984a) = 3
+#(utgoff1988aaai) = 1
+#(deb1989a) = 3
+#(fahlman1990a) = 204
+#(clark1993) = 1
+#(conery1985a) = 1
+#(utgoff1991aaai) = 24
+#(fahle1981a) = 1
+#(fahle1993a) = 3
+#(kriegel1993a) = 2
+#(musick1992) = 10
+#(dutta1988a) = 1
+#(ragavan1993) = 10
+#(utgoff1989pt) = 29
+#(buth1992a) = 5
+#(hu1996) = 2
+#(herzog1995a) = 1
+#(utgoff1986book) = 25
+#(white1994a) = 1
+#(benford1995b) = 1
+#(cardie1993) = 10
+#(vitek1992a) = 1
+#(knopp1992a) = 1
+#(utgoff1996mlii) = 1
+#(conery1981) = 5
+#(mitchell1983) = 47
+#(connell1987) = 9
+#(mitchell1981) = 1
+#(fahlman1987a) = 3
+#(conery1985) = 2
+#(benford1995a) = 3
+#(fahln1993a) = 2
+#(conery1983) = 1
+#(daelemans1995a) = 1
+#(weber1994) = 10
+#(utgoff1990) = 34
+#(datta1992) = 4
+#(mitchell1983ijcai) = 1
+#(datta1995) = 7
+#(huffman1993) = 7
+#(utgoff1994) = 29
+#(fahle1992a) = 1
+#(utgoff1995) = 10
+#(yee1990) = 7
+#(ruby1991a) = 5
+#(shapiro1980a) = 1
+#(utgoff1998) = 2
+#(carlson1993a) = 1
+#(walter1987a) = 1
+#(webber1994) = 1
+#(utgoff1996) = 2
+#(fayyad1993) = 9
+#(utgoff1997) = 7
+#(dempster1977a) = 2
+#(utgoff1997fa) = 5
+#(zheng1993) = 4
+#(kibler1993) = 3
+#(kibler1992) = 3
+#(rymon1993) = 9
+#(kibler1991) = 1
+#(pfahler1997a) = 2
+#(johnson1982) = 1
+#(connel1987) = 1
+#(ruby1991) = 5
+#(fahlen1993a) = 5
+#(aha1989) = 26
+#(ruby1992) = 4
+#(fahlman1996a) = 3
+#(torgo1995) = 1
+#(aha1987) = 32
+#(dill1997a) = 2
+#(clouse1992) = 17
+#(dill1997b) = 2
+#(fahle1991a) = 1
+#(steele1990a) = 5
+#(mladenic1993) = 1
+#(utgoff1996va) = 1
+#(knoop1992a) = 16
+#(dasarathy1991) = 1
+#(poggio1992b) = 2
+#(asfahl1992a) = 1
+#(poggio1992a) = 9
+#(nilsson1994) = 3
+#(aha1991) = 239
+#(aha1992) = 2
+#(ruby1989) = 3
+#(minton1992) = 2
+#(learning1991) = 4
+#(learning1992) = 2
+#(hoehfeld1992a) = 2
+#(brodley1992) = 30
+#(kelly1991) = 2
+#(brodley1995) = 45
+#(frankel1994a) = 1
+#(brodley1994) = 5
+#(fahlman1981b) = 1
+#(fahlman1981a) = 1
+#(fahlman1993b) = 1
+#(fahlman1993a) = 1
+#(mccallum1993) = 6
+#(utgoff1982ml) = 1
+#(kibler1978) = 1
+#(pazzani1990) = 120
+#(moss1997) = 1
+#(sklansky1976) = 1
+#(kibler1988a) = 9
+#(sudholt1992a) = 1
+#(utgoff1984phd) = 6
+#(skiblics1996) = 1
+#(craven1993) = 8
+#(hampson1995) = 6
+#(fahle1997a) = 2
+#(fawcett1991) = 7
+#(fawcett1992) = 9
+#(utgoff1983) = 1
+#(utgoff1987) = 4
+#(chapman1991) = 3
+#(utgoff1996ks) = 3
+#(weiss1993a) = 6
+#(kibler1989) = 13
+#(kibler1988) = 43
+#(mladenic) = 9
+#(utgoff1989) = 61
+#(ourston1994) = 3
+#(utgoff1991lmdt) = 22
+#(hendren1992a) = 1
+#(kibler1985) = 3
+#(wholey1984a) = 1
+#(kibler1983) = 1
+#(forchheimer1983a) = 1
+#(kibler1981) = 2
+#(ahlskog1994a) = 8
+#(rudy1992) = 1
+#(mehra1998) = 4
+#(fahlman1979a) = 33
+#(thurn1991a) = 2
+#(fahlman1991b) = 2
+#(fahlman1991a) = 19
+#(chapman1987) = 2
+#(langendoen1992a) = 2
+#(fahlman1991c) = 4
+#(utgoff1988iid) = 21
+#(brodley1992b) = 11
+#(quinlan1993) = 14
+#(benford1994a) = 1
+#(ortega1995) = 1
+#(caruana1993) = 19
+#(safford1993) = 1
+#(mitchell1993) = 3
+#(fahlman1988b) = 46
+#(kaelbling1993) = 4
+#(fahlman1988a) = 39
+#(mitchell1993ebl) = 6
+#(fahle1995a) = 4
+#(schwartz1993) = 2
+#(fahlman1980a) = 1
+#(hall1989) = 1
+#(schmill1998) = 1
+#(norvig1992) = 4
+#(callan1991) = 7
+#(utgoff1988pt) = 13
+#(benford1993a) = 1
+#(utgoff1982aaai) = 4
+#(cleeremans1989) = 1
+#(standish1976) = 1
+#(utgoff1989rp) = 1
+#(utgoff1989mlw) = 10
+#(mcdonald1987a) = 1
+#(danyluk1993) = 2
+#(pope1992a) = 1
+#(thrun1991a) = 38
+
+Total of records: 1878
